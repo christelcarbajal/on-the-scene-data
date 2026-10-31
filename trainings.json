@@ -3,18 +3,24 @@
     "id": "training-1",
     "title": "Het doorzochte kantoor",
     "description": "Onderzoek een nagebootst kantoor. Leg vast wat je waarneemt en voeg mogelijke verklaringen toe.",
-    "duration": 30
+    "duration": 30,
+    "latitude": 40.4168,
+    "longitude": -3.7038
   },
   {
     "id": "training-2",
     "title": "De geopende opslagruimte",
     "description": "Bekijk een nagebootste opslagruimte. Noteer opvallende details en onderzoek mogelijke verbanden.",
-    "duration": 25
+    "duration": 25,
+    "latitude": 40.423,
+    "longitude": -3.712
   },
   {
     "id": "training-3",
     "title": "Het beschadigde voertuig",
     "description": "Observeer een voertuig op een oefenlocatie. Beschrijf zichtbare schade en mogelijke verklaringen.",
-    "duration": 20
+    "duration": 20,
+    "latitude": 40.411,
+    "longitude": -3.694
   }
 ]
