@@ -1,0 +1,20 @@
+[
+  {
+    "id": "training-1",
+    "title": "Het doorzochte kantoor",
+    "description": "Onderzoek een nagebootst kantoor. Leg vast wat je waarneemt en voeg mogelijke verklaringen toe.",
+    "duration": 30
+  },
+  {
+    "id": "training-2",
+    "title": "De geopende opslagruimte",
+    "description": "Bekijk een nagebootste opslagruimte. Noteer opvallende details en onderzoek mogelijke verbanden.",
+    "duration": 25
+  },
+  {
+    "id": "training-3",
+    "title": "Het beschadigde voertuig",
+    "description": "Observeer een voertuig op een oefenlocatie. Beschrijf zichtbare schade en mogelijke verklaringen.",
+    "duration": 20
+  }
+]
