@@ -1,26 +1,122 @@
 [
   {
     "id": "training-1",
-    "title": "Het doorzochte kantoor",
-    "description": "Onderzoek een nagebootst kantoor. Leg vast wat je waarneemt en voeg mogelijke verklaringen toe.",
+    "title": "De verdwenen schoudertas",
+    "description": "MELDING 08:42 | Puerta del Sol. Een toerist meldt dat zijn schoudertas is verdwenen na een botsing met een onbekende. Een omstander zag twee personen snel weglopen. OPDRACHT: Breng mogelijke looproutes, zichtlijnen en locaties van cameratoezicht in kaart. Scheid getuigenverklaringen van eigen waarnemingen en formuleer twee mogelijke scenario's.",
     "duration": 30,
-    "latitude": 40.4168,
-    "longitude": -3.7038
+    "latitude": 40.416878,
+    "longitude": -3.703517
   },
   {
     "id": "training-2",
-    "title": "De geopende opslagruimte",
-    "description": "Bekijk een nagebootste opslagruimte. Noteer opvallende details en onderzoek mogelijke verbanden.",
-    "duration": 25,
-    "latitude": 40.423,
-    "longitude": -3.712
+    "title": "De achtergelaten rugzak",
+    "description": "MELDING 22:15 | Plaza de España. Na een woordenwisseling zou een persoon zijn weggerend. Een getuige beschrijft een onbeheerde rugzak bij een bankje, maar de herkomst is onbekend. OPDRACHT: Observeer de omgeving vanaf veilige afstand, bepaal welke zones moeten worden afgezet en noteer geschikte getuigenposities. Raak verdachte voorwerpen niet aan; de melding is volledig fictief.",
+    "duration": 35,
+    "latitude": 40.423392,
+    "longitude": -3.712233
   },
   {
     "id": "training-3",
-    "title": "Het beschadigde voertuig",
-    "description": "Observeer een voertuig op een oefenlocatie. Beschrijf zichtbare schade en mogelijke verklaringen.",
-    "duration": 20,
-    "latitude": 40.411,
-    "longitude": -3.694
+    "title": "De beschadigde auto bij Atocha",
+    "description": "MELDING 06:30 | Omgeving station Atocha. Een bestuurder meldt schade aan de linkerzijde van zijn geparkeerde auto en een afgebroken spiegel. De exacte oorzaak is onbekend. OPDRACHT: Leg in een fictief schadedossier mogelijke aanrijrichtingen, zichtbelemmeringen en relevante wegmarkeringen vast. Vergelijk minstens twee verklaringen zonder een aanrijding als feit te behandelen.",
+    "duration": 40,
+    "latitude": 40.406397,
+    "longitude": -3.690387
+  },
+  {
+    "id": "training-4",
+    "title": "Het incident onder de bogen",
+    "description": "MELDING 01:18 | Plaza Mayor. Een horecamedewerker zegt na sluitingstijd glasgerinkel en een verhitte discussie te hebben gehoord. Een bezoeker meldt een lichte verwonding. OPDRACHT: Reconstrueer de mogelijke posities van betrokkenen aan de hand van doorgangen, terrassen en zichtlijnen. Noteer welke sporen in een echte zaak door bevoegde onderzoekers veiliggesteld zouden moeten worden.",
+    "duration": 45,
+    "latitude": 40.415511,
+    "longitude": -3.707399
+  },
+  {
+    "id": "training-5",
+    "title": "De vermiste hardloper",
+    "description": "MELDING 07:05 | Parque del Retiro, nabij de grote vijver. Een familielid heeft sinds de vorige avond geen contact met een hardloper. De laatst bekende locatie is onbetrouwbaar. OPDRACHT: Beschrijf de paden, kruispunten, ingangen en mogelijke observatiepunten. Maak een zoekhypothese en geef aan welke gegevens eerst geverifieerd moeten worden. Er is geen echte vermissingszaak.",
+    "duration": 50,
+    "latitude": 40.419651,
+    "longitude": -3.688337
+  },
+  {
+    "id": "training-6",
+    "title": "Sporen bij de Puerta de Alcalá",
+    "description": "MELDING 05:55 | Puerta de Alcalá. Een fietser zegt getuige te zijn geweest van een bijna-aanrijding waarna een bestuurder doorreed. De betrokken persoon is niet meer aanwezig. OPDRACHT: Bestudeer oversteekplaatsen, rijrichtingen, verkeerslichten en obstakels. Maak een situatieschets en formuleer welke verklaringen door aanvullende beelden of getuigen kunnen worden gecontroleerd.",
+    "duration": 35,
+    "latitude": 40.419992,
+    "longitude": -3.688737
+  },
+  {
+    "id": "training-7",
+    "title": "De verdwenen camera op Gran Vía",
+    "description": "MELDING 17:40 | Gran Vía, omgeving Callao. Een fotograaf meldt dat zijn camera tijdens een druk straatoptreden uit zijn tas is verdwenen. Het tijdstip is slechts bij benadering bekend. OPDRACHT: Inventariseer drukte, looprichtingen, mogelijke observatiepunten en tijdelijke obstakels. Onderscheid gelegenheid, feitelijke waarneming en speculatie over daderschap.",
+    "duration": 30,
+    "latitude": 40.42014,
+    "longitude": -3.70576
+  },
+  {
+    "id": "training-8",
+    "title": "De beschadigde fiets aan Madrid Río",
+    "description": "MELDING 09:20 | Madrid Río, omgeving Puente de Segovia. Een fietser werd volgens een melding op het fietspad ten val gebracht; de tegenpartij is onbekend. Een fiets zou schade aan het voorwiel vertonen. OPDRACHT: Analyseer in een gesimuleerde casus de paden, bochten, zichtlijnen en mogelijke valrichting. Beschrijf wat wel en niet uit de omgeving kan worden afgeleid.",
+    "duration": 40,
+    "latitude": 40.41338,
+    "longitude": -3.72246
+  },
+  {
+    "id": "training-9",
+    "title": "De verdachte rookontwikkeling",
+    "description": "MELDING 23:10 | Omgeving Matadero Madrid. Een fictieve bewaker meldt rook bij een afvalcontainer buiten het complex. Er zijn tegenstrijdige verklaringen over een persoon die kort daarvoor vertrok. OPDRACHT: Breng toegankelijke aanrijroutes, vluchtwegen en veiligheidsafstanden in kaart. Bedenk welke aanwijzingen een brandonderzoeker zou documenteren. Benader geen echte rook of brand en betreed geen afgesloten terrein.",
+    "duration": 45,
+    "latitude": 40.39262,
+    "longitude": -3.6974
+  },
+  {
+    "id": "training-10",
+    "title": "De onbekende val bij Cibeles",
+    "description": "MELDING 02:35 | Plaza de Cibeles. Volgens een fictieve melding is een persoon gevallen na een mogelijk conflict. Getuigen verschillen van mening over de toedracht. OPDRACHT: Identificeer potentiële getuigenposities, lichtbronnen, oversteekplaatsen en camerahoeken. Beschrijf hoe een onderzoeker een ongeval van mogelijk geweld zou proberen te onderscheiden zonder vooraf conclusies te trekken.",
+    "duration": 50,
+    "latitude": 40.41934,
+    "longitude": -3.69258
+  },
+  {
+    "id": "training-11",
+    "title": "De beschadigde expositiekist",
+    "description": "MELDING 18:50 | Buitenruimte nabij Museo Reina Sofía. Een organisator van een fictieve tijdelijke tentoonstelling meldt een beschadigde transportkist; een onderdeel van de inhoud ontbreekt. OPDRACHT: Leg mogelijke laad- en looproutes vast, analyseer het zicht vanuit de openbare ruimte en beschrijf welke gegevens nodig zijn om verlies, vergissing of diefstal te onderscheiden.",
+    "duration": 45,
+    "latitude": 40.40859,
+    "longitude": -3.69455
+  },
+  {
+    "id": "training-12",
+    "title": "De nachtelijke melding bij Debod",
+    "description": "MELDING 00:25 | Park bij de Templo de Debod. Een wandelaar zegt een schreeuw en daarna snelle voetstappen te hebben gehoord. Een tweede getuige hoorde niets. Er is geen slachtoffer bekend. OPDRACHT: Onderzoek op basis van de publieke wandelpaden mogelijke geluids- en zichtlijnen, verlichting en uitgangen. Formuleer alternatieve verklaringen en vermeld expliciet welke informatie ontbreekt.",
+    "duration": 35,
+    "latitude": 40.42402,
+    "longitude": -3.71777
+  },
+  {
+    "id": "training-13",
+    "title": "Het verdwenen pakket in La Latina",
+    "description": "MELDING 13:10 | Plaza de la Cebada. Een koerier meldt dat een pakket tijdens een korte stop is verdwenen. De afleverregistratie en de verklaring van de ontvanger komen niet overeen. OPDRACHT: Documenteer openbare toegangswegen, mogelijke stopplaatsen en de zichtbaarheid vanaf omliggende straten. Stel een tijdlijn op met bevestigde en onbevestigde gebeurtenissen.",
+    "duration": 30,
+    "latitude": 40.41187,
+    "longitude": -3.70897
+  },
+  {
+    "id": "training-14",
+    "title": "De aanrijding bij Príncipe Pío",
+    "description": "MELDING 21:05 | Buitenomgeving station Príncipe Pío. Een voetganger meldt een bijna-aanrijding met een elektrische step. Een getuige beweert dat het verkeerslicht groen was; een ander twijfelt. OPDRACHT: Leg de oversteek, zichtbelemmeringen, verkeersstromen en mogelijke rijlijnen vast. Maak een neutrale reconstructie en benoem welke gegevens de verklaringen kunnen toetsen.",
+    "duration": 40,
+    "latitude": 40.4212,
+    "longitude": -3.72065
+  },
+  {
+    "id": "training-15",
+    "title": "De mysterieuze vondst in Casa de Campo",
+    "description": "MELDING 10:45 | Casa de Campo, omgeving Lago. Een wandelaar meldt een verlaten jas en een beschadigd telefohoesje langs een openbaar pad. Er is geen bevestigd misdrijf of vermissing. OPDRACHT: Beschrijf de vindplaats op afstand, mogelijke toegangswegen en omgevingsinvloeden zoals wind, regen en voorbijgangers. Stel prioriteiten voor verificatie en motiveer waarom een losse vondst geen bewijs van een misdrijf is.",
+    "duration": 60,
+    "latitude": 40.4198,
+    "longitude": -3.7323
   }
 ]
