@@ -1,121 +1,221 @@
 [
   {
     "id": "training-1",
-    "title": "De verdwenen schoudertas",
-    "description": "MELDING 08:42 | Puerta del Sol. Een toerist meldt dat zijn schoudertas is verdwenen na een botsing met een onbekende. Een omstander zag twee personen snel weglopen. OPDRACHT: Breng mogelijke looproutes, zichtlijnen en locaties van cameratoezicht in kaart. Scheid getuigenverklaringen van eigen waarnemingen en formuleer twee mogelijke scenario's.",
+    "title": "De verdwenen tas op Puerta del Sol",
+    "description": "Puerta del Sol. MELDING 08:42: Een toerist zegt dat zijn gesloten schoudertas kort na een botsing met een onbekende verdwenen was. Een omstander zag twee personen snel weglopen, maar zag niemand een tas wegnemen. De toerist staat nog op de afgesproken ontmoetingsplek. OPDRACHT: Leg het gemelde contactpunt en de mogelijke looproutes vast. Fotografeer vanuit de openbare ruimte de zichtlijnen en obstakels die de waarneming van de getuige kunnen beïnvloeden. Maak een korte tijdlijn en vergelijk de hypothesen verlies en diefstal. Vermeld per onderdeel of het uit de melding komt, door jou is waargenomen of nog moet worden gecontroleerd. Het incident en de betrokkenen zijn fictief; spreek geen willekeurige voorbijgangers aan als verdachten.",
+    "translations": {
+      "nl": {
+        "title": "De verdwenen tas op Puerta del Sol",
+        "description": "Puerta del Sol. MELDING 08:42: Een toerist zegt dat zijn gesloten schoudertas kort na een botsing met een onbekende verdwenen was. Een omstander zag twee personen snel weglopen, maar zag niemand een tas wegnemen. De toerist staat nog op de afgesproken ontmoetingsplek. OPDRACHT: Leg het gemelde contactpunt en de mogelijke looproutes vast. Fotografeer vanuit de openbare ruimte de zichtlijnen en obstakels die de waarneming van de getuige kunnen beïnvloeden. Maak een korte tijdlijn en vergelijk de hypothesen verlies en diefstal. Vermeld per onderdeel of het uit de melding komt, door jou is waargenomen of nog moet worden gecontroleerd. Het incident en de betrokkenen zijn fictief; spreek geen willekeurige voorbijgangers aan als verdachten."
+      },
+      "en": {
+        "title": "The missing bag at Puerta del Sol",
+        "description": "Puerta del Sol. REPORT 08:42: A tourist says his closed shoulder bag was missing shortly after a collision with a stranger. A bystander saw two people walking away quickly but did not see anyone take a bag. The tourist remains at the agreed meeting point. TASK: Record the reported contact point and possible walking routes. From public areas, photograph sightlines and obstacles that may affect what the witness could see. Build a short timeline and compare the hypotheses of loss and theft. Label each detail as reported information, your own observation or information still requiring verification. The incident and people involved are fictional; do not approach random passers-by as suspects."
+      },
+      "es": {
+        "title": "El bolso desaparecido en Puerta del Sol",
+        "description": "Puerta del Sol. AVISO 08:42: Un turista afirma que su bolso de bandolera, que llevaba cerrado, desapareció poco después de chocar con una persona desconocida. Un testigo vio a dos personas alejarse deprisa, pero no vio a nadie llevarse un bolso. El turista permanece en el punto de encuentro acordado. TAREA: Documenta el punto de contacto indicado y los posibles recorridos a pie. Desde el espacio público, fotografía las líneas de visión y los obstáculos que podrían afectar a lo que pudo ver el testigo. Elabora una breve cronología y compara las hipótesis de pérdida y hurto. Distingue entre información del aviso, observación propia y datos pendientes de comprobación. El incidente y sus participantes son ficticios; no trates a los transeúntes como sospechosos."
+      }
+    },
     "duration": 30,
     "latitude": 40.416878,
     "longitude": -3.703517
   },
   {
     "id": "training-2",
-    "title": "De achtergelaten rugzak",
-    "description": "MELDING 22:15 | Plaza de España. Na een woordenwisseling zou een persoon zijn weggerend. Een getuige beschrijft een onbeheerde rugzak bij een bankje, maar de herkomst is onbekend. OPDRACHT: Observeer de omgeving vanaf veilige afstand, bepaal welke zones moeten worden afgezet en noteer geschikte getuigenposities. Raak verdachte voorwerpen niet aan; de melding is volledig fictief.",
-    "duration": 35,
+    "title": "De onbeheerde rugzak",
+    "description": "Plaza de España. MELDING 16:20: Een medewerker meldt een rugzak die volgens hem al twintig minuten onder een bankje staat. Niemand heeft gemeld wie de eigenaar is. Er is geen melding van rook, geluid of een bedreiging. OPDRACHT: Beschrijf vanuit een veilige observatiepositie de ligging van het bankje ten opzichte van looproutes en drukke plekken. Noteer welke informatie over het voorwerp en de eigenaar ontbreekt en welke vragen je aan de melder zou stellen. Geef aan hoe je in het oefenscenario omstanders op afstand zou houden zonder de plek te benaderen. Richt je op veiligheid en een duidelijke overdracht, niet op het onderzoeken van de inhoud. De rugzak bestaat alleen in het oefendossier; raak geen echte onbeheerde voorwerpen aan.",
+    "translations": {
+      "nl": {
+        "title": "De onbeheerde rugzak",
+        "description": "Plaza de España. MELDING 16:20: Een medewerker meldt een rugzak die volgens hem al twintig minuten onder een bankje staat. Niemand heeft gemeld wie de eigenaar is. Er is geen melding van rook, geluid of een bedreiging. OPDRACHT: Beschrijf vanuit een veilige observatiepositie de ligging van het bankje ten opzichte van looproutes en drukke plekken. Noteer welke informatie over het voorwerp en de eigenaar ontbreekt en welke vragen je aan de melder zou stellen. Geef aan hoe je in het oefenscenario omstanders op afstand zou houden zonder de plek te benaderen. Richt je op veiligheid en een duidelijke overdracht, niet op het onderzoeken van de inhoud. De rugzak bestaat alleen in het oefendossier; raak geen echte onbeheerde voorwerpen aan."
+      },
+      "en": {
+        "title": "The unattended backpack",
+        "description": "Plaza de España. REPORT 16:20: A worker reports a backpack that, according to him, has been under a bench for twenty minutes. Nobody has identified its owner. No smoke, sound or threat has been reported. TASK: From a safe observation point, describe the bench’s position relative to walking routes and busy areas. Record what information about the object and its owner is missing and what questions you would ask the caller. Explain how you would keep bystanders away in the exercise without approaching the spot. Focus on safety and a clear handover rather than examining the contents. The backpack exists only in the exercise dossier; do not touch real unattended objects."
+      },
+      "es": {
+        "title": "La mochila sin vigilancia",
+        "description": "Plaza de España. AVISO 16:20: Un trabajador comunica que, según él, una mochila lleva veinte minutos debajo de un banco. Nadie ha identificado a su propietario. No se han comunicado humo, sonidos ni amenazas. TAREA: Desde un punto de observación seguro, describe la posición del banco respecto a los recorridos peatonales y las zonas concurridas. Anota qué información falta sobre el objeto y su propietario y qué preguntas harías al comunicante. Explica cómo mantendrías alejados a los viandantes en el ejercicio sin acercarte al punto. Céntrate en la seguridad y en transmitir la información, no en examinar el contenido. La mochila solo existe en el expediente del ejercicio; no toques objetos reales sin vigilancia."
+      }
+    },
+    "duration": 30,
     "latitude": 40.423392,
     "longitude": -3.712233
   },
   {
     "id": "training-3",
-    "title": "De beschadigde auto bij Atocha",
-    "description": "MELDING 06:30 | Omgeving station Atocha. Een bestuurder meldt schade aan de linkerzijde van zijn geparkeerde auto en een afgebroken spiegel. De exacte oorzaak is onbekend. OPDRACHT: Leg in een fictief schadedossier mogelijke aanrijrichtingen, zichtbelemmeringen en relevante wegmarkeringen vast. Vergelijk minstens twee verklaringen zonder een aanrijding als feit te behandelen.",
+    "title": "De parkeerschade bij Atocha",
+    "description": "Openbare omgeving van station Atocha. MELDING 06:30: Een bestuurder trof zijn geparkeerde auto aan met schade aan de linkerzijde en een afgebroken spiegel. Volgens het oefendossier liggen enkele kunststofdelen op de rijbaan. Niemand heeft het ontstaan van de schade gezien. OPDRACHT: Maak vanaf het trottoir een situatieschets van de opgegeven parkeerpositie, rijrichtingen, wegmarkeringen en zichtbelemmeringen. Noteer welke foto’s van voertuigschade en losse delen in een echte zaak nodig zouden zijn. Vergelijk contact met een passerend voertuig met schade die al vóór het parkeren aanwezig was; benoem wat elke verklaring zou kunnen toetsen. De auto en onderdelen zijn fictief: ga niet op de rijbaan staan en onderzoek geen voertuigen van anderen.",
+    "translations": {
+      "nl": {
+        "title": "De parkeerschade bij Atocha",
+        "description": "Openbare omgeving van station Atocha. MELDING 06:30: Een bestuurder trof zijn geparkeerde auto aan met schade aan de linkerzijde en een afgebroken spiegel. Volgens het oefendossier liggen enkele kunststofdelen op de rijbaan. Niemand heeft het ontstaan van de schade gezien. OPDRACHT: Maak vanaf het trottoir een situatieschets van de opgegeven parkeerpositie, rijrichtingen, wegmarkeringen en zichtbelemmeringen. Noteer welke foto’s van voertuigschade en losse delen in een echte zaak nodig zouden zijn. Vergelijk contact met een passerend voertuig met schade die al vóór het parkeren aanwezig was; benoem wat elke verklaring zou kunnen toetsen. De auto en onderdelen zijn fictief: ga niet op de rijbaan staan en onderzoek geen voertuigen van anderen."
+      },
+      "en": {
+        "title": "The parking damage near Atocha",
+        "description": "Public area around Atocha station. REPORT 06:30: A driver found his parked car with damage to its left side and a broken-off mirror. The exercise dossier describes several plastic pieces on the road. Nobody saw how the damage occurred. TASK: From the pavement, sketch the reported parking position, traffic directions, road markings and visibility obstructions. Record which photographs of vehicle damage and loose parts would be needed in a real case. Compare contact with a passing vehicle against damage that existed before parking, and identify what could test each explanation. The car and parts are fictional: do not enter the road or examine other people’s vehicles."
+      },
+      "es": {
+        "title": "Los daños de aparcamiento junto a Atocha",
+        "description": "Espacio público próximo a la estación de Atocha. AVISO 06:30: Un conductor encontró su coche aparcado con daños en el lateral izquierdo y un retrovisor arrancado. El expediente del ejercicio describe varios fragmentos de plástico en la calzada. Nadie vio cómo se produjeron los daños. TAREA: Desde la acera, elabora un croquis de la posición de aparcamiento indicada, los sentidos de circulación, las marcas viales y los obstáculos de visibilidad. Anota qué fotografías de los daños y de los fragmentos serían necesarias en un caso real. Compara el contacto con un vehículo que pasaba con la posibilidad de daños anteriores al estacionamiento e indica qué permitiría contrastar cada explicación. El coche y los fragmentos son ficticios: no entres en la calzada ni examines vehículos ajenos."
+      }
+    },
     "duration": 40,
     "latitude": 40.406397,
     "longitude": -3.690387
   },
   {
     "id": "training-4",
-    "title": "Het incident onder de bogen",
-    "description": "MELDING 01:18 | Plaza Mayor. Een horecamedewerker zegt na sluitingstijd glasgerinkel en een verhitte discussie te hebben gehoord. Een bezoeker meldt een lichte verwonding. OPDRACHT: Reconstrueer de mogelijke posities van betrokkenen aan de hand van doorgangen, terrassen en zichtlijnen. Noteer welke sporen in een echte zaak door bevoegde onderzoekers veiliggesteld zouden moeten worden.",
+    "title": "De confrontatie onder de bogen",
+    "description": "Plaza Mayor. MELDING 01:18: Een horecamedewerker zegt na sluitingstijd een discussie en glasgerinkel te hebben gehoord. Een bezoeker verklaart dat hij is geduwd en daarbij een snijwond opliep. In het scenario krijgt hij al medische hulp. Een tweede getuige zag pas het einde van het incident. OPDRACHT: Leg de gemelde posities van de betrokkenen afzonderlijk vast. Onderzoek vanaf de openbare doorgangen wat iedere getuige vanaf zijn positie kon zien en horen. Maak onderscheid tussen een gehoorde ruzie, een gemelde duw en eventueel waarneembare sporen. Noteer welke sporenlocaties tegen verstoring beschermd zouden moeten worden en welke vragen nodig zijn om de volgorde te reconstrueren. Gebruik alleen fictieve sporen uit het dossier; er is geen echte gewonde.",
+    "translations": {
+      "nl": {
+        "title": "De confrontatie onder de bogen",
+        "description": "Plaza Mayor. MELDING 01:18: Een horecamedewerker zegt na sluitingstijd een discussie en glasgerinkel te hebben gehoord. Een bezoeker verklaart dat hij is geduwd en daarbij een snijwond opliep. In het scenario krijgt hij al medische hulp. Een tweede getuige zag pas het einde van het incident. OPDRACHT: Leg de gemelde posities van de betrokkenen afzonderlijk vast. Onderzoek vanaf de openbare doorgangen wat iedere getuige vanaf zijn positie kon zien en horen. Maak onderscheid tussen een gehoorde ruzie, een gemelde duw en eventueel waarneembare sporen. Noteer welke sporenlocaties tegen verstoring beschermd zouden moeten worden en welke vragen nodig zijn om de volgorde te reconstrueren. Gebruik alleen fictieve sporen uit het dossier; er is geen echte gewonde."
+      },
+      "en": {
+        "title": "The confrontation under the arches",
+        "description": "Plaza Mayor. REPORT 01:18: A hospitality worker says they heard an argument and breaking glass after closing time. A visitor states that he was pushed and suffered a cut. In the scenario, medical assistance is already underway. A second witness saw only the end of the incident. TASK: Record the reported positions of those involved separately. From public passageways, assess what each witness could see and hear from their position. Distinguish a heard argument, a reported push and any potentially observable traces. Note which trace locations would need protection from disturbance and which questions are needed to reconstruct the sequence. Use only fictional traces supplied in the dossier; there is no real injured person."
+      },
+      "es": {
+        "title": "El enfrentamiento bajo los arcos",
+        "description": "Plaza Mayor. AVISO 01:18: Una persona que trabaja en hostelería afirma haber oído una discusión y cristales rotos después del cierre. Un visitante declara que lo empujaron y que sufrió un corte. En el escenario ya está recibiendo asistencia sanitaria. Un segundo testigo solo vio el final del incidente. TAREA: Registra por separado las posiciones indicadas de las personas implicadas. Desde los pasajes públicos, valora qué podía ver y oír cada testigo desde su posición. Distingue entre una discusión oída, un empujón declarado y los posibles indicios observables. Anota qué zonas con indicios deberían protegerse de alteraciones y qué preguntas permitirían reconstruir la secuencia. Utiliza únicamente los indicios ficticios del expediente; no hay ninguna persona herida real."
+      }
+    },
     "duration": 45,
     "latitude": 40.415511,
     "longitude": -3.707399
   },
   {
     "id": "training-5",
-    "title": "De vermiste hardloper",
-    "description": "MELDING 07:05 | Parque del Retiro, nabij de grote vijver. Een familielid heeft sinds de vorige avond geen contact met een hardloper. De laatst bekende locatie is onbetrouwbaar. OPDRACHT: Beschrijf de paden, kruispunten, ingangen en mogelijke observatiepunten. Maak een zoekhypothese en geef aan welke gegevens eerst geverifieerd moeten worden. Er is geen echte vermissingszaak.",
+    "title": "De vermiste hardloper in het Retiro",
+    "description": "Parque del Retiro, nabij de grote vijver. MELDING 07:05: Een familielid heeft sinds de vorige avond geen contact met een hardloper. Het oefendossier bevat een bevestigde ontmoeting bij de vijver om 19:10. Een latere melding bij een uitgang is nog niet gecontroleerd. OPDRACHT: Gebruik de bevestigde ontmoeting als vertrekpunt en beschrijf de aansluitende paden, keuzepunten en mogelijke uitgangen. Maak een kaart van logische zoeksectoren op basis van de omgeving. Houd de onbevestigde melding apart en formuleer welke informatie nodig is om de zoekrichting te bepalen. Leg uit waarom alleen geen telefonisch contact nog niets zegt over de oorzaak. Blijf op toegankelijke paden; de vermissing en alle persoonsinformatie zijn fictief.",
+    "translations": {
+      "nl": {
+        "title": "De vermiste hardloper in het Retiro",
+        "description": "Parque del Retiro, nabij de grote vijver. MELDING 07:05: Een familielid heeft sinds de vorige avond geen contact met een hardloper. Het oefendossier bevat een bevestigde ontmoeting bij de vijver om 19:10. Een latere melding bij een uitgang is nog niet gecontroleerd. OPDRACHT: Gebruik de bevestigde ontmoeting als vertrekpunt en beschrijf de aansluitende paden, keuzepunten en mogelijke uitgangen. Maak een kaart van logische zoeksectoren op basis van de omgeving. Houd de onbevestigde melding apart en formuleer welke informatie nodig is om de zoekrichting te bepalen. Leg uit waarom alleen geen telefonisch contact nog niets zegt over de oorzaak. Blijf op toegankelijke paden; de vermissing en alle persoonsinformatie zijn fictief."
+      },
+      "en": {
+        "title": "The missing runner in Retiro",
+        "description": "Parque del Retiro, near the large pond. REPORT 07:05: A family member has had no contact with a runner since the previous evening. The exercise dossier contains a confirmed meeting by the pond at 19:10. A later sighting near an exit has not been checked. TASK: Use the confirmed meeting as your starting point and describe connecting paths, decision points and possible exits. Map logical search sectors based on the surroundings. Keep the unconfirmed sighting separate and identify the information needed to decide the search direction. Explain why a lack of telephone contact alone does not establish the cause. Stay on accessible paths; the disappearance and all personal information are fictional."
+      },
+      "es": {
+        "title": "El corredor desaparecido en el Retiro",
+        "description": "Parque del Retiro, cerca del estanque grande. AVISO 07:05: Un familiar no tiene contacto con un corredor desde la noche anterior. El expediente incluye un encuentro confirmado junto al estanque a las 19:10. Un avistamiento posterior cerca de una salida no se ha comprobado. TAREA: Toma el encuentro confirmado como punto de partida y describe los caminos conectados, las bifurcaciones y las posibles salidas. Divide el entorno en sectores lógicos de búsqueda. Mantén separado el avistamiento no confirmado e indica qué información permitiría orientar la búsqueda. Explica por qué la falta de contacto telefónico, por sí sola, no permite determinar la causa. Permanece en caminos accesibles; la desaparición y todos los datos personales son ficticios."
+      }
+    },
     "duration": 50,
     "latitude": 40.419651,
     "longitude": -3.688337
   },
   {
-    "id": "training-6",
-    "title": "Sporen bij de Puerta de Alcalá",
-    "description": "MELDING 05:55 | Puerta de Alcalá. Een fietser zegt getuige te zijn geweest van een bijna-aanrijding waarna een bestuurder doorreed. De betrokken persoon is niet meer aanwezig. OPDRACHT: Bestudeer oversteekplaatsen, rijrichtingen, verkeerslichten en obstakels. Maak een situatieschets en formuleer welke verklaringen door aanvullende beelden of getuigen kunnen worden gecontroleerd.",
-    "duration": 35,
-    "latitude": 40.419992,
-    "longitude": -3.688737
-  },
-  {
-    "id": "training-7",
-    "title": "De verdwenen camera op Gran Vía",
-    "description": "MELDING 17:40 | Gran Vía, omgeving Callao. Een fotograaf meldt dat zijn camera tijdens een druk straatoptreden uit zijn tas is verdwenen. Het tijdstip is slechts bij benadering bekend. OPDRACHT: Inventariseer drukte, looprichtingen, mogelijke observatiepunten en tijdelijke obstakels. Onderscheid gelegenheid, feitelijke waarneming en speculatie over daderschap.",
-    "duration": 30,
-    "latitude": 40.42014,
-    "longitude": -3.70576
-  },
-  {
-    "id": "training-8",
-    "title": "De beschadigde fiets aan Madrid Río",
-    "description": "MELDING 09:20 | Madrid Río, omgeving Puente de Segovia. Een fietser werd volgens een melding op het fietspad ten val gebracht; de tegenpartij is onbekend. Een fiets zou schade aan het voorwiel vertonen. OPDRACHT: Analyseer in een gesimuleerde casus de paden, bochten, zichtlijnen en mogelijke valrichting. Beschrijf wat wel en niet uit de omgeving kan worden afgeleid.",
+    "id": "training-forced-entry-lalatina",
+    "title": "De geforceerde winkeldeur",
+    "description": "Openbare omgeving van Plaza de la Cebada. MELDING 08:05: De eigenaar van een fictieve winkel meldt een vervormde toegangsdeur en een geopende kassalade. De winkel was volgens hem de vorige avond om 21:00 afgesloten. Een schoonmaker is vóór de melding binnen geweest. De melding beschrijft een scheefstaande deur en een verbogen sluitplaat; de winkel is niet werkelijk aanwezig. OPDRACHT: Leg vanuit de openbare ruimte de mogelijke toegangen en het zicht op de opgegeven gevel vast. Maak een toegangslog van de in het dossier genoemde personen en noteer welke sporen daardoor mogelijk zijn beïnvloed. Benoem welke informatie nodig is om braakschade te onderscheiden van oudere schade en om de vermiste inhoud te bevestigen. Betreed geen echte winkel of besloten terrein voor deze oefening.",
+    "translations": {
+      "nl": {
+        "title": "De geforceerde winkeldeur",
+        "description": "Openbare omgeving van Plaza de la Cebada. MELDING 08:05: De eigenaar van een fictieve winkel meldt een vervormde toegangsdeur en een geopende kassalade. De winkel was volgens hem de vorige avond om 21:00 afgesloten. Een schoonmaker is vóór de melding binnen geweest. De melding beschrijft een scheefstaande deur en een verbogen sluitplaat; de winkel is niet werkelijk aanwezig. OPDRACHT: Leg vanuit de openbare ruimte de mogelijke toegangen en het zicht op de opgegeven gevel vast. Maak een toegangslog van de in het dossier genoemde personen en noteer welke sporen daardoor mogelijk zijn beïnvloed. Benoem welke informatie nodig is om braakschade te onderscheiden van oudere schade en om de vermiste inhoud te bevestigen. Betreed geen echte winkel of besloten terrein voor deze oefening."
+      },
+      "en": {
+        "title": "The forced shop door",
+        "description": "Public area around Plaza de la Cebada. REPORT 08:05: The owner of a fictional shop reports a distorted entrance door and an open cash drawer. He says the shop was locked at 21:00 the previous evening. A cleaner entered before the report. The report describes a misaligned door and bent strike plate; the shop is not actually present. TASK: From public space, record possible entrances and visibility towards the specified frontage. Create an entry log of the people named in the dossier and note which traces their presence may have affected. Identify the information needed to distinguish forced-entry damage from older damage and confirm what is missing. Do not enter a real shop or private premises for this exercise."
+      },
+      "es": {
+        "title": "La puerta del comercio forzada",
+        "description": "Espacio público próximo a la Plaza de la Cebada. AVISO 08:05: El propietario de un comercio ficticio comunica que la puerta de entrada está deformada y el cajón de la caja registradora abierto. Afirma que cerró el local a las 21:00 de la noche anterior. Una persona de limpieza entró antes del aviso. El aviso describe una puerta desalineada y un cerradero doblado; el comercio no está realmente presente. TAREA: Desde el espacio público, documenta los posibles accesos y la visibilidad hacia la fachada indicada. Elabora un registro de acceso con las personas mencionadas e indica qué indicios pudieron verse alterados por su presencia. Señala qué información permitiría distinguir daños de entrada forzada de daños antiguos y confirmar qué falta. No entres en comercios reales ni en recintos privados para realizar el ejercicio."
+      }
+    },
     "duration": 40,
-    "latitude": 40.41338,
-    "longitude": -3.72246
+    "latitude": 40.41187,
+    "longitude": -3.70897
   },
   {
     "id": "training-9",
-    "title": "De verdachte rookontwikkeling",
-    "description": "MELDING 23:10 | Omgeving Matadero Madrid. Een fictieve bewaker meldt rook bij een afvalcontainer buiten het complex. Er zijn tegenstrijdige verklaringen over een persoon die kort daarvoor vertrok. OPDRACHT: Breng toegankelijke aanrijroutes, vluchtwegen en veiligheidsafstanden in kaart. Bedenk welke aanwijzingen een brandonderzoeker zou documenteren. Benader geen echte rook of brand en betreed geen afgesloten terrein.",
+    "title": "De brand bij de afvalcontainer",
+    "description": "Openbare omgeving van Matadero Madrid. MELDING 23:10: In het scenario heeft de brandweer een brand in een afvalcontainer geblust en de plaats veilig verklaard. Een bewaker zegt kort vóór het ontdekken van de rook iemand te hebben zien weglopen, maar zag niet hoe de brand ontstond. De melding beschrijft roet aan één zijde van de container en verkleuring van de bestrating; dit zijn fictieve gegevens. OPDRACHT: Beschrijf vanaf de openbare route de indeling van de omgeving, nabijgelegen objecten en mogelijke toegangen voor hulpdiensten. Geef aan welke gemelde schade nader brandonderzoek zou vragen en welke foto’s daarvan nodig zouden zijn. Scheid de verklaring van de bewaker van conclusies over de oorzaak en noteer welke gegevens ontbreken. De brand is fictief: benader geen echte brandlocatie, rook of beschadigde container.",
+    "translations": {
+      "nl": {
+        "title": "De brand bij de afvalcontainer",
+        "description": "Openbare omgeving van Matadero Madrid. MELDING 23:10: In het scenario heeft de brandweer een brand in een afvalcontainer geblust en de plaats veilig verklaard. Een bewaker zegt kort vóór het ontdekken van de rook iemand te hebben zien weglopen, maar zag niet hoe de brand ontstond. De melding beschrijft roet aan één zijde van de container en verkleuring van de bestrating; dit zijn fictieve gegevens. OPDRACHT: Beschrijf vanaf de openbare route de indeling van de omgeving, nabijgelegen objecten en mogelijke toegangen voor hulpdiensten. Geef aan welke gemelde schade nader brandonderzoek zou vragen en welke foto’s daarvan nodig zouden zijn. Scheid de verklaring van de bewaker van conclusies over de oorzaak en noteer welke gegevens ontbreken. De brand is fictief: benader geen echte brandlocatie, rook of beschadigde container."
+      },
+      "en": {
+        "title": "The waste-container fire",
+        "description": "Public area around Matadero Madrid. REPORT 23:10: In the scenario, firefighters have extinguished a waste-container fire and declared the scene safe. A security guard says he saw someone leave shortly before discovering the smoke but did not see how the fire started. The report describes soot on one side of the container and discolouration of the paving; these are fictional details. TASK: From a public route, describe the surrounding layout, nearby objects and possible emergency-service access. Identify reported damage that would require further fire investigation and the photographs that would be needed. Separate the guard’s statement from conclusions about the cause and record the missing information. The fire is fictional: do not approach real fire scenes, smoke or damaged containers."
+      },
+      "es": {
+        "title": "El incendio del contenedor",
+        "description": "Espacio público próximo a Matadero Madrid. AVISO 23:10: En el escenario, los bomberos han extinguido un incendio en un contenedor y han declarado segura la zona. Un vigilante afirma haber visto marcharse a una persona poco antes de descubrir el humo, pero no vio cómo empezó el fuego. El aviso describe hollín en un lateral del contenedor y decoloración del pavimento; son datos ficticios. TAREA: Desde un recorrido público, describe la distribución del entorno, los objetos cercanos y los posibles accesos para los servicios de emergencia. Indica qué daños comunicados requerirían un análisis especializado del incendio y qué fotografías serían necesarias. Separa el testimonio del vigilante de las conclusiones sobre la causa y anota qué datos faltan. El incendio es ficticio: no te acerques a incendios reales, humo ni contenedores dañados."
+      }
+    },
     "duration": 45,
     "latitude": 40.39262,
     "longitude": -3.6974
   },
   {
-    "id": "training-10",
-    "title": "De onbekende val bij Cibeles",
-    "description": "MELDING 02:35 | Plaza de Cibeles. Volgens een fictieve melding is een persoon gevallen na een mogelijk conflict. Getuigen verschillen van mening over de toedracht. OPDRACHT: Identificeer potentiële getuigenposities, lichtbronnen, oversteekplaatsen en camerahoeken. Beschrijf hoe een onderzoeker een ongeval van mogelijk geweld zou proberen te onderscheiden zonder vooraf conclusies te trekken.",
-    "duration": 50,
-    "latitude": 40.41934,
-    "longitude": -3.69258
-  },
-  {
-    "id": "training-11",
-    "title": "De beschadigde expositiekist",
-    "description": "MELDING 18:50 | Buitenruimte nabij Museo Reina Sofía. Een organisator van een fictieve tijdelijke tentoonstelling meldt een beschadigde transportkist; een onderdeel van de inhoud ontbreekt. OPDRACHT: Leg mogelijke laad- en looproutes vast, analyseer het zicht vanuit de openbare ruimte en beschrijf welke gegevens nodig zijn om verlies, vergissing of diefstal te onderscheiden.",
-    "duration": 45,
-    "latitude": 40.40859,
-    "longitude": -3.69455
-  },
-  {
-    "id": "training-12",
-    "title": "De nachtelijke melding bij Debod",
-    "description": "MELDING 00:25 | Park bij de Templo de Debod. Een wandelaar zegt een schreeuw en daarna snelle voetstappen te hebben gehoord. Een tweede getuige hoorde niets. Er is geen slachtoffer bekend. OPDRACHT: Onderzoek op basis van de publieke wandelpaden mogelijke geluids- en zichtlijnen, verlichting en uitgangen. Formuleer alternatieve verklaringen en vermeld expliciet welke informatie ontbreekt.",
-    "duration": 35,
-    "latitude": 40.42402,
-    "longitude": -3.71777
-  },
-  {
-    "id": "training-13",
-    "title": "Het verdwenen pakket in La Latina",
-    "description": "MELDING 13:10 | Plaza de la Cebada. Een koerier meldt dat een pakket tijdens een korte stop is verdwenen. De afleverregistratie en de verklaring van de ontvanger komen niet overeen. OPDRACHT: Documenteer openbare toegangswegen, mogelijke stopplaatsen en de zichtbaarheid vanaf omliggende straten. Stel een tijdlijn op met bevestigde en onbevestigde gebeurtenissen.",
+    "id": "training-vandalism-alcala",
+    "title": "De beschadigde informatieplaat",
+    "description": "Openbare omgeving van de Puerta de Alcalá. MELDING 09:30: Een onderhoudsmedewerker meldt een fictieve informatieplaat met verse verfstrepen en een afgebroken hoek. Volgens het onderhoudslog was de plaat bij de vorige controle intact. Er wordt geen echte schade aan het monument verondersteld. OPDRACHT: Beschrijf de gemelde schade en vergelijk die met de eerdere toestand uit het onderhoudslog, zonder de gebruikte materialen of het gereedschap als feit te benoemen. Maak een plan voor overzichts-, context- en detailfoto’s en noteer welke gegevens over tijdstip en eerdere toestand nodig zijn. Gebruik de openbare omgeving voor de context. Raak geen echte objecten aan en plaats zelf geen markeringen of oefenschade.",
+    "translations": {
+      "nl": {
+        "title": "De beschadigde informatieplaat",
+        "description": "Openbare omgeving van de Puerta de Alcalá. MELDING 09:30: Een onderhoudsmedewerker meldt een fictieve informatieplaat met verse verfstrepen en een afgebroken hoek. Volgens het onderhoudslog was de plaat bij de vorige controle intact. Er wordt geen echte schade aan het monument verondersteld. OPDRACHT: Beschrijf de gemelde schade en vergelijk die met de eerdere toestand uit het onderhoudslog, zonder de gebruikte materialen of het gereedschap als feit te benoemen. Maak een plan voor overzichts-, context- en detailfoto’s en noteer welke gegevens over tijdstip en eerdere toestand nodig zijn. Gebruik de openbare omgeving voor de context. Raak geen echte objecten aan en plaats zelf geen markeringen of oefenschade."
+      },
+      "en": {
+        "title": "The damaged information panel",
+        "description": "Public area around the Puerta de Alcalá. REPORT 09:30: A maintenance worker reports a fictional information panel with fresh paint streaks and a broken corner. According to the maintenance log, the panel was intact at the previous inspection. No actual damage to the monument is assumed. TASK: Describe the reported damage and compare it with the previous condition recorded in the maintenance log, without asserting which materials or tools were used. Plan overview, context and detail photographs, and record the information needed about timing and the previous condition. Use the public surroundings for context. Do not touch real objects or add markings or simulated damage yourself."
+      },
+      "es": {
+        "title": "El panel informativo dañado",
+        "description": "Espacio público próximo a la Puerta de Alcalá. AVISO 09:30: Una persona de mantenimiento comunica que un panel informativo ficticio presenta trazos de pintura reciente y una esquina rota. Según el registro de mantenimiento, el panel estaba intacto en la revisión anterior. No se presupone ningún daño real en el monumento. TAREA: Describe los daños comunicados y compáralos con el estado anterior indicado en el registro de mantenimiento, sin afirmar qué materiales o herramientas se utilizaron. Planifica fotografías de conjunto, de contexto y de detalle y anota qué datos necesitas sobre el momento del daño y el estado anterior. Utiliza el entorno público para el contexto. No toques objetos reales ni añadas marcas o daños simulados."
+      }
+    },
     "duration": 30,
-    "latitude": 40.41187,
-    "longitude": -3.70897
+    "latitude": 40.419992,
+    "longitude": -3.688737
   },
   {
-    "id": "training-14",
-    "title": "De aanrijding bij Príncipe Pío",
-    "description": "MELDING 21:05 | Buitenomgeving station Príncipe Pío. Een voetganger meldt een bijna-aanrijding met een elektrische step. Een getuige beweert dat het verkeerslicht groen was; een ander twijfelt. OPDRACHT: Leg de oversteek, zichtbelemmeringen, verkeersstromen en mogelijke rijlijnen vast. Maak een neutrale reconstructie en benoem welke gegevens de verklaringen kunnen toetsen.",
+    "id": "training-spill-madridrio",
+    "title": "Het onbekende vloeistofspoor",
+    "description": "Madrid Río, omgeving Puente de Segovia. MELDING 10:20: Een onderhoudsmedewerker meldt in het scenario een vloeistofspoor op een verhard servicepad, in de richting van een afvoer. De aard en herkomst van de stof zijn onbekend. Volgens de melding loopt het spoor vanaf de rand van het pad naar een afvoer; er ligt geen echte oefenvloeistof. OPDRACHT: Observeer vanaf een schoon openbaar pad de helling, afvoerpunten en mogelijke verspreidingsrichtingen. Noteer welke informatie nodig is om de bron en omvang te bepalen en welke omgevingsgegevens verloren kunnen gaan door regen of schoonmaak. Maak een heldere overdracht met locatie, onzekerheden en mogelijke blootstelling van voorbijgangers. Identificeer de stof niet op basis van kleur alleen en benader, ruik of bemonster geen echte onbekende vloeistof.",
+    "translations": {
+      "nl": {
+        "title": "Het onbekende vloeistofspoor",
+        "description": "Madrid Río, omgeving Puente de Segovia. MELDING 10:20: Een onderhoudsmedewerker meldt in het scenario een vloeistofspoor op een verhard servicepad, in de richting van een afvoer. De aard en herkomst van de stof zijn onbekend. Volgens de melding loopt het spoor vanaf de rand van het pad naar een afvoer; er ligt geen echte oefenvloeistof. OPDRACHT: Observeer vanaf een schoon openbaar pad de helling, afvoerpunten en mogelijke verspreidingsrichtingen. Noteer welke informatie nodig is om de bron en omvang te bepalen en welke omgevingsgegevens verloren kunnen gaan door regen of schoonmaak. Maak een heldere overdracht met locatie, onzekerheden en mogelijke blootstelling van voorbijgangers. Identificeer de stof niet op basis van kleur alleen en benader, ruik of bemonster geen echte onbekende vloeistof."
+      },
+      "en": {
+        "title": "The unidentified liquid trail",
+        "description": "Madrid Río, near Puente de Segovia. REPORT 10:20: In the scenario, a maintenance worker reports a liquid trail on a paved service path, leading towards a drain. The substance and its source are unknown. According to the report, the trail runs from the edge of the path towards a drain; no real exercise liquid is present. TASK: From a clean public path, observe the slope, drainage points and possible directions of spread. Record the information needed to determine the source and extent, and which environmental details could be lost through rain or cleaning. Prepare a clear handover covering the location, uncertainties and possible exposure of passers-by. Do not identify a substance by colour alone or approach, smell or sample real unknown liquids."
+      },
+      "es": {
+        "title": "El rastro de líquido desconocido",
+        "description": "Madrid Río, entorno del Puente de Segovia. AVISO 10:20: En el escenario, una persona de mantenimiento comunica un rastro de líquido en un camino de servicio pavimentado, en dirección a un desagüe. Se desconocen la sustancia y su procedencia. Según el aviso, el rastro va desde el borde del camino hacia un desagüe; no hay líquido real colocado para el ejercicio. TAREA: Desde un camino público limpio, observa la pendiente, los puntos de drenaje y las posibles direcciones de propagación. Anota qué datos permitirían determinar el origen y el alcance y qué información del entorno podría perderse por lluvia o limpieza. Prepara una transmisión clara con ubicación, incertidumbres y posible exposición de viandantes. No identifiques la sustancia solo por su color ni te acerques, huelas o tomes muestras de líquidos reales desconocidos."
+      }
+    },
     "duration": 40,
-    "latitude": 40.4212,
-    "longitude": -3.72065
+    "latitude": 40.41338,
+    "longitude": -3.72246
   },
   {
-    "id": "training-15",
-    "title": "De mysterieuze vondst in Casa de Campo",
-    "description": "MELDING 10:45 | Casa de Campo, omgeving Lago. Een wandelaar meldt een verlaten jas en een beschadigd telefohoesje langs een openbaar pad. Er is geen bevestigd misdrijf of vermissing. OPDRACHT: Beschrijf de vindplaats op afstand, mogelijke toegangswegen en omgevingsinvloeden zoals wind, regen en voorbijgangers. Stel prioriteiten voor verificatie en motiveer waarom een losse vondst geen bewijs van een misdrijf is.",
-    "duration": 60,
+    "id": "training-discovery-casadecampo",
+    "title": "De overleden persoon bij het wandelpad",
+    "description": "Casa de Campo, omgeving Lago. MELDING 07:40: Een wandelaar heeft in het scenario een persoon naast een pad aangetroffen. Een arts heeft het overlijden vastgesteld; de oorzaak is onbekend. De melder verklaart de persoon te hebben aangeraakt tijdens een poging hulp te verlenen. Alleen het oefendossier bevat de persoon en bijbehorende sporen. OPDRACHT: Maak vanaf toegankelijke paden een overzicht van de vindplaats, mogelijke toegangen en invloeden zoals regen en voorbijgangers. Registreer welke handelingen volgens de melder al hebben plaatsgevonden en hoe die het beeld kunnen beïnvloeden. Benoem welke bevindingen gespecialiseerde beoordeling vragen; trek geen conclusie over doodsoorzaak of tijdstip. Er is geen echte overledene. Verplaats niets en betreed geen afgeschermde of kwetsbare zones.",
+    "translations": {
+      "nl": {
+        "title": "De overleden persoon bij het wandelpad",
+        "description": "Casa de Campo, omgeving Lago. MELDING 07:40: Een wandelaar heeft in het scenario een persoon naast een pad aangetroffen. Een arts heeft het overlijden vastgesteld; de oorzaak is onbekend. De melder verklaart de persoon te hebben aangeraakt tijdens een poging hulp te verlenen. Alleen het oefendossier bevat de persoon en bijbehorende sporen. OPDRACHT: Maak vanaf toegankelijke paden een overzicht van de vindplaats, mogelijke toegangen en invloeden zoals regen en voorbijgangers. Registreer welke handelingen volgens de melder al hebben plaatsgevonden en hoe die het beeld kunnen beïnvloeden. Benoem welke bevindingen gespecialiseerde beoordeling vragen; trek geen conclusie over doodsoorzaak of tijdstip. Er is geen echte overledene. Verplaats niets en betreed geen afgeschermde of kwetsbare zones."
+      },
+      "en": {
+        "title": "The deceased person beside the footpath",
+        "description": "Casa de Campo, near Lago. REPORT 07:40: In the scenario, a walker has found a person beside a path. A doctor has confirmed the death; the cause is unknown. The caller states that they touched the person while attempting to help. The person and associated traces exist only in the exercise dossier. TASK: From accessible paths, map the discovery site, possible access routes and influences such as rain and passers-by. Record the actions already taken according to the caller and how they could affect the scene. Identify findings requiring specialist assessment; do not draw conclusions about the cause or time of death. There is no real deceased person. Move nothing and do not enter restricted or sensitive areas."
+      },
+      "es": {
+        "title": "La persona fallecida junto al sendero",
+        "description": "Casa de Campo, entorno del Lago. AVISO 07:40: En el escenario, una persona que paseaba ha encontrado a alguien junto a un sendero. Un médico ha confirmado el fallecimiento; se desconoce la causa. El comunicante declara haber tocado a la persona al intentar ayudarla. La persona fallecida y los indicios asociados solo existen en el expediente del ejercicio. TAREA: Desde caminos accesibles, representa el lugar del hallazgo, los posibles accesos y factores como la lluvia y el paso de personas. Registra las actuaciones previas según el comunicante y cómo podrían influir en la escena. Indica qué hallazgos requieren valoración especializada sin concluir la causa ni la hora del fallecimiento. No hay ninguna persona fallecida real. No muevas nada ni entres en zonas restringidas o sensibles."
+      }
+    },
+    "duration": 50,
     "latitude": 40.4198,
     "longitude": -3.7323
   }
