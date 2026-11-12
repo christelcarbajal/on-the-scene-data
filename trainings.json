@@ -15,6 +15,18 @@
       "es": {
         "title": "El bolso desaparecido en la Puerta del Sol",
         "description": "Un turista se da cuenta de que le falta el bolso que llevaba en bandolera. Poco antes había chocado con alguien en la Puerta del Sol. Un testigo vio a dos personas alejarse deprisa, pero no vio que nadie se llevara el bolso. El turista espera en el punto de encuentro acordado.\n\nTAREA:\n1. Marca en un croquis el lugar donde, según el turista, se produjo el choque. Señala los recorridos posibles desde ese punto.\n\n2. Desde la plaza, describe qué podía ver el testigo desde donde estaba y qué podía taparle la vista. Si ayuda, añade una foto del entorno.\n\n3. Prepara una cronología breve. Compara la pérdida y el hurto, e indica qué datos faltan para comprobar cada posibilidad.\n\nSepara los testimonios, tus propias observaciones y las suposiciones. No abordes a los transeúntes como si fueran sospechosos."
+      },
+      "fr": {
+        "title": "Le sac en bandoulière disparu à la Puerta del Sol",
+        "description": "À la Puerta del Sol, un touriste s’aperçoit que son sac en bandoulière a disparu. Peu avant, il a heurté quelqu’un sur la place. Un témoin a vu deux personnes s’éloigner à la hâte, mais n’a vu personne emporter le sac. Le touriste attend au point de rendez-vous convenu.\n\nTASK:\n1. Sur un croquis, situe la collision d’après le récit du touriste. Indique les itinéraires piétons possibles depuis ce point.\n\n2. Depuis la place, décris ce que le témoin pouvait voir de là où il se trouvait. Note ce qui pouvait lui masquer la vue. Ajoute une photo des lieux si elle est utile.\n\n3. Établis une brève chronologie. Compare les hypothèses de la perte et du vol, puis indique les informations nécessaires pour vérifier chacune.\n\nDistingue les témoignages, tes propres observations et les hypothèses. N’aborde pas les passants comme des suspects."
+      },
+      "it": {
+        "title": "La borsa a tracolla scomparsa a Puerta del Sol",
+        "description": "A Puerta del Sol, un turista si accorge che la sua borsa a tracolla è sparita. Poco prima aveva urtato una persona nella piazza. Un testimone ha visto due persone allontanarsi in fretta, ma non ha visto nessuno portare via la borsa. Il turista aspetta nel luogo d’incontro concordato.\n\nTASK:\n1. Segna su uno schizzo il punto in cui, secondo il turista, è avvenuto l’urto. Indica i percorsi pedonali possibili da lì.\n\n2. Dalla piazza, descrivi che cosa poteva vedere il testimone dalla sua posizione e quali ostacoli potevano limitarne la visuale. Se è utile, aggiungi una foto del luogo.\n\n3. Prepara una breve cronologia. Confronta le ipotesi dello smarrimento e del furto e indica quali dati servirebbero per verificare ciascuna.\n\nTieni distinti i racconti dei testimoni, le tue osservazioni e le ipotesi. Non avvicinare i passanti trattandoli come sospetti."
+      },
+      "ko": {
+        "title": "푸에르타 델 솔에서 사라진 어깨 가방",
+        "description": "관광객 한 명이 푸에르타 델 솔에서 어깨 가방이 없어진 것을 알아차렸습니다. 그 직전 광장에서 누군가와 부딪혔습니다. 목격자는 두 사람이 서둘러 떠나는 것을 봤지만, 가방을 가져가는 사람은 보지 못했습니다. 관광객은 약속한 장소에서 기다리고 있습니다.\n\nTASK:\n1. 관광객이 부딪혔다고 말한 지점을 약도에 표시하세요. 그곳에서 걸어서 이동할 수 있는 경로를 표시하세요.\n\n2. 광장에서 목격자의 위치를 기준으로 무엇이 보였을지 살펴보세요. 시야를 가릴 수 있는 요소를 기록하고, 필요하면 주변 사진을 첨부하세요.\n\n3. 사건의 흐름을 시간순으로 간단히 정리하세요. 분실과 도난의 가능성을 비교하고, 각각을 확인하려면 어떤 정보가 필요한지 적으세요.\n\n진술, 직접 관찰한 내용, 추정을 구분하세요. 지나가는 사람을 용의자로 여기고 접근하지 마세요."
       }
     },
     "duration": 30,
@@ -37,6 +49,18 @@
       "es": {
         "title": "La mochila sin vigilancia en la plaza de España",
         "description": "Un trabajador avisa de que hay una mochila debajo de un banco de Plaza de España desde hace unos veinte minutos. No sabe de quién es. En el aviso no se menciona humo, ruido ni ninguna amenaza. El banco sirve como referencia en el ejercicio.\n\nTAREA:\n1. Desde un lugar seguro, describe dónde queda el banco respecto a los pasos peatonales y las zonas más concurridas de la plaza.\n\n2. Escribe tres preguntas para la persona que dio el aviso. Empieza por cuándo vio la mochila por primera vez y qué observó directamente.\n\n3. Prepara un resumen para otro agente: dónde está la mochila según el aviso, qué se sabe y qué datos faltan.\n\nLa mochila es ficticia. No te acerques ni toques ningún objeto real que esté sin vigilancia."
+      },
+      "fr": {
+        "title": "Le sac à dos sans surveillance sur la Plaza de España",
+        "description": "Un employé signale qu’un sac à dos se trouve sous un banc de la Plaza de España depuis environ vingt minutes. Il ignore à qui il appartient. Le signalement ne mentionne ni fumée, ni bruit, ni menace. Le banc sert de repère dans le dossier d’exercice.\n\nTASK:\n1. Depuis un endroit sûr, décris la position du banc par rapport aux passages piétons et aux zones les plus fréquentées de la place.\n\n2. Prépare trois questions pour l’auteur du signalement. Commence par lui demander quand le sac a été vu pour la première fois et ce qu’il a lui-même observé.\n\n3. Prépare une courte transmission pour un collègue : où se trouve le sac d’après le signalement, que sait-on et quelles informations manquent ?\n\nLe sac est fictif. Ne t’approche d’aucun objet réel laissé sans surveillance et n’y touche pas."
+      },
+      "it": {
+        "title": "Lo zaino incustodito in Plaza de España",
+        "description": "Un addetto segnala che da circa venti minuti c’è uno zaino sotto una panchina in Plaza de España. Non sa a chi appartenga. La segnalazione non menziona fumo, rumori o minacce. La panchina è un punto di riferimento per l’esercitazione.\n\nTASK:\n1. Da un punto sicuro, descrivi dove si trova la panchina rispetto ai percorsi pedonali e alle zone più affollate della piazza.\n\n2. Scrivi tre domande per chi ha fatto la segnalazione. Comincia chiedendo quando è stato visto lo zaino per la prima volta e che cosa ha osservato di persona.\n\n3. Prepara un breve resoconto per un collega: dove si trova lo zaino secondo la segnalazione, che cosa si sa e quali informazioni mancano?\n\nLo zaino è fittizio. Non avvicinarti a oggetti reali lasciati incustoditi e non toccarli."
+      },
+      "ko": {
+        "title": "플라사 데 에스파냐의 주인 없는 배낭",
+        "description": "한 직원이 플라사 데 에스파냐의 벤치 아래에 배낭이 약 20분째 놓여 있다고 신고합니다. 배낭의 주인은 모릅니다. 신고에는 연기, 소리, 위협에 대한 언급이 없습니다. 벤치는 훈련 자료에서 위치를 파악하기 위한 기준점입니다.\n\nTASK:\n1. 안전한 위치에서 벤치가 보행로와 광장에서 가장 붐비는 구역에 비해 어디에 있는지 설명하세요.\n\n2. 신고자에게 물어볼 질문을 세 가지 적으세요. 배낭을 처음 본 시점과 신고자가 직접 본 내용부터 확인하세요.\n\n3. 동료에게 전달할 내용을 간단히 정리하세요. 신고된 배낭의 위치, 확인된 사실, 아직 부족한 정보를 포함하세요.\n\n배낭은 가상의 물건입니다. 실제로 방치된 물건에는 접근하거나 손대지 마세요."
       }
     },
     "duration": 30,
@@ -59,6 +83,18 @@
       "es": {
         "title": "Daños en un coche aparcado cerca de Atocha",
         "description": "Cerca de la estación de Atocha, un conductor vuelve a su coche y encuentra daños en el lateral izquierdo y un retrovisor arrancado. El expediente menciona varios fragmentos de plástico en la calzada. Nadie vio cómo se produjeron los daños.\n\nTAREA:\n1. Desde la acera, dibuja un croquis del lugar donde estaba aparcado el coche según el expediente. Indica los sentidos de circulación, las marcas viales y los obstáculos que limitan la visibilidad.\n\n2. Anota qué fotos generales y de detalle servirían para documentar los daños y los fragmentos en un caso real.\n\n3. Compara dos posibilidades: un vehículo golpeó el coche al pasar o los daños ya existían. Indica qué comprobarías en cada caso.\n\nEl coche y los fragmentos son ficticios. Quédate en la acera y no examines vehículos reales."
+      },
+      "fr": {
+        "title": "Une voiture en stationnement endommagée près d’Atocha",
+        "description": "Près de la gare d’Atocha, un conducteur retrouve sa voiture avec le côté gauche endommagé et un rétroviseur arraché. Le dossier mentionne des fragments de plastique sur la chaussée. Personne n’a vu comment les dégâts sont survenus.\n\nTASK:\n1. Depuis le trottoir, dessine l’emplacement où la voiture était garée d’après le dossier. Indique les sens de circulation, le marquage au sol et les obstacles à la visibilité.\n\n2. Note quelles photos d’ensemble et de détail aideraient à documenter les dégâts et les fragments dans un cas réel.\n\n3. Compare deux possibilités : un véhicule a heurté la voiture en passant, ou les dégâts étaient déjà présents. Indique ce que tu vérifierais dans chaque cas.\n\nLa voiture et les fragments sont fictifs. Reste sur le trottoir et n’examine aucun véhicule réel."
+      },
+      "it": {
+        "title": "Danni a un’auto parcheggiata vicino ad Atocha",
+        "description": "Vicino alla stazione di Atocha, un conducente torna alla sua auto e trova il lato sinistro danneggiato e uno specchietto divelto. Il fascicolo segnala frammenti di plastica sulla carreggiata. Nessuno ha visto come si sono prodotti i danni.\n\nTASK:\n1. Dal marciapiede, disegna il punto in cui l’auto era parcheggiata secondo il fascicolo. Indica i sensi di marcia, la segnaletica orizzontale e gli ostacoli alla visuale.\n\n2. Indica quali foto d’insieme e di dettaglio aiuterebbero a documentare i danni e i frammenti in un caso reale.\n\n3. Confronta due possibilità: un veicolo ha urtato l’auto passando, oppure i danni erano già presenti. Annota che cosa verificheresti in ogni caso.\n\nL’auto e i frammenti sono fittizi. Resta sul marciapiede e non esaminare veicoli reali."
+      },
+      "ko": {
+        "title": "아토차역 인근의 주차 차량 파손",
+        "description": "아토차역 근처에서 운전자가 주차해 둔 차로 돌아와 왼쪽 측면이 파손되고 사이드미러가 떨어져 나간 것을 발견합니다. 훈련 자료에는 차도에 플라스틱 조각이 있다고 적혀 있습니다. 파손이 어떻게 일어났는지 본 사람은 없습니다.\n\nTASK:\n1. 인도에서 자료에 나온 주차 위치를 약도로 그리세요. 차량 진행 방향, 노면 표시, 시야를 가리는 요소를 표시하세요.\n\n2. 실제 사건이라면 차량 파손과 떨어진 조각을 기록하는 데 어떤 전경 사진과 상세 사진이 도움이 될지 적으세요.\n\n3. 지나가던 차량이 부딪혔을 가능성과 기존에 이미 파손돼 있었을 가능성을 비교하세요. 각각 무엇을 확인할지 적으세요.\n\n차량과 조각은 가상입니다. 인도에 머무르고 실제 차량을 조사하지 마세요."
       }
     },
     "duration": 40,
@@ -81,6 +117,18 @@
       "es": {
         "title": "El incidente bajo los soportales de la Plaza Mayor",
         "description": "Después del cierre, una persona que trabaja en hostelería oyó una discusión y el ruido de cristales al romperse bajo los soportales de la Plaza Mayor. Un visitante dice que alguien lo empujó y que sufrió un corte. En el ejercicio ya recibe atención sanitaria. Otro testigo solo vio el final del incidente.\n\nTAREA:\n1. Marca por separado en un croquis las posiciones del visitante y de los testigos según sus relatos. Deja sin marcar las que no se conozcan.\n\n2. Desde las zonas de paso público, valora qué podía ver u oír cada testigo. Registra por separado el ruido de los cristales y el empujón que refiere el visitante.\n\n3. Anota qué zonas con indicios ficticios protegerías y qué preguntas ayudarían a aclarar el orden de los hechos.\n\nTrabaja solo con los indicios del expediente. No hay ninguna persona herida de verdad."
+      },
+      "fr": {
+        "title": "L’incident sous les arcades de la Plaza Mayor",
+        "description": "Après la fermeture, une personne travaillant dans la restauration a entendu une dispute et du verre se briser sous les arcades de la Plaza Mayor. Un visiteur dit avoir été poussé et s’être coupé. Dans le scénario, il est déjà pris en charge. Un second témoin n’a vu que la fin de l’incident.\n\nTASK:\n1. Sur un croquis, marque séparément la position du visiteur et celles des témoins d’après leurs récits. Ne place pas les personnes dont la position est inconnue.\n\n2. Depuis les passages publics, évalue ce que chaque témoin pouvait voir ou entendre de sa position. Note séparément le bruit du verre et la poussée signalée.\n\n3. Indique quelles zones contenant des traces fictives tu protégerais et quelles questions aideraient à établir l’ordre des événements.\n\nUtilise uniquement les traces décrites dans le dossier. Il n’y a pas de blessé réel."
+      },
+      "it": {
+        "title": "L’incidente sotto i portici di Plaza Mayor",
+        "description": "Dopo la chiusura, una persona che lavora nella ristorazione ha sentito un litigio e il rumore di vetri che si rompevano sotto i portici di Plaza Mayor. Un visitatore dice di essere stato spinto e di essersi procurato un taglio. Nello scenario sta già ricevendo assistenza medica. Un altro testimone ha visto solo la fine dell’incidente.\n\nTASK:\n1. Segna separatamente su uno schizzo le posizioni riferite del visitatore e dei testimoni. Lascia in bianco quelle sconosciute.\n\n2. Dai passaggi aperti al pubblico, valuta che cosa ogni testimone poteva vedere o sentire dalla sua posizione. Annota separatamente il rumore dei vetri e la spinta riferita.\n\n3. Indica quali zone con tracce fittizie proteggeresti e quali domande aiuterebbero a ricostruire l’ordine degli eventi.\n\nUsa solo le tracce descritte nel fascicolo. Non ci sono feriti reali."
+      },
+      "ko": {
+        "title": "마요르 광장 아케이드에서 벌어진 사건",
+        "description": "영업이 끝난 뒤 한 식당 직원이 마요르 광장 아케이드에서 말다툼과 유리가 깨지는 소리를 들었습니다. 한 방문객은 누군가가 자신을 밀었으며 그 과정에서 베였다고 말합니다. 훈련 상황에서 방문객은 이미 의료 지원을 받고 있습니다. 다른 목격자는 사건의 마지막 부분만 봤습니다.\n\nTASK:\n1. 진술에 나온 방문객과 목격자들의 위치를 약도에 따로 표시하세요. 알 수 없는 위치는 비워 두세요.\n\n2. 공개 통로에서 각 목격자가 자신의 위치에서 무엇을 보거나 들을 수 있었을지 판단하세요. 유리가 깨지는 소리와 방문객이 진술한 밀침을 구분해서 기록하세요.\n\n3. 가상의 흔적을 보존하려면 어느 구역을 보호할지, 사건의 순서를 확인하려면 어떤 질문을 할지 적으세요.\n\n훈련 자료에 나온 흔적만 사용하세요. 실제로 다친 사람은 없습니다."
       }
     },
     "duration": 45,
@@ -103,6 +151,18 @@
       "es": {
         "title": "La desaparición de un corredor en el Retiro",
         "description": "Un familiar no consigue contactar con un corredor desde anoche. El expediente confirma que el corredor estaba junto al Estanque Grande del Retiro a las 19:10. Un aviso posterior lo sitúa cerca de una salida, pero aún no se ha comprobado.\n\nTAREA:\n1. Parte del último punto confirmado. Dibuja los caminos, cruces y salidas a los que se puede llegar desde allí.\n\n2. Divide el entorno en zonas de búsqueda y explica por cuál empezarías en este ejercicio.\n\n3. Anota el aviso posterior por separado. Indica cómo lo comprobarías y explica por qué no poder contactar por teléfono no aclara la causa de la desaparición.\n\nQuédate en los caminos públicos. La desaparición y los datos personales son ficticios."
+      },
+      "fr": {
+        "title": "Le coureur disparu au Retiro",
+        "description": "Un proche n’arrive plus à joindre un coureur depuis hier soir. Le dossier confirme que le coureur se trouvait près du grand bassin du Retiro à 19 h 10. Un signalement ultérieur le situe près d’une sortie, mais cette information n’a pas été vérifiée.\n\nTASK:\n1. Pars du dernier point confirmé. Trace les chemins, croisements et sorties accessibles depuis cet endroit.\n\n2. Divise les environs en secteurs de recherche et explique par lequel tu commencerais dans ce scénario.\n\n3. Note à part le signalement ultérieur. Indique comment tu le vérifierais et explique pourquoi l’absence de réponse au téléphone ne révèle pas la cause de la disparition.\n\nReste sur les chemins publics. La disparition et les données personnelles sont fictives."
+      },
+      "it": {
+        "title": "Il corridore scomparso al Retiro",
+        "description": "Un familiare non riesce a contattare un corridore da ieri sera. Il fascicolo conferma che alle 19:10 il corridore si trovava vicino al laghetto principale del Retiro. Una segnalazione successiva lo colloca nei pressi di un’uscita, ma non è ancora stata verificata.\n\nTASK:\n1. Parti dall’ultimo punto confermato. Disegna i sentieri, gli incroci e le uscite raggiungibili da lì.\n\n2. Suddividi l’area in settori di ricerca e spiega da quale inizieresti in questo scenario.\n\n3. Registra separatamente la segnalazione successiva. Indica come la verificheresti e perché la mancata risposta al telefono non chiarisce la causa della scomparsa.\n\nResta sui percorsi pubblici. La scomparsa e i dati personali sono fittizi."
+      },
+      "ko": {
+        "title": "레티로 공원에서 실종된 러너",
+        "description": "가족 한 명이 어젯밤부터 달리기를 하던 사람과 연락이 닿지 않는다고 합니다. 자료에 따르면 마지막으로 확인된 위치는 19시 10분의 레티로 공원 큰 연못 주변입니다. 이후 출구 근처에서 봤다는 신고가 있었지만 아직 확인되지 않았습니다.\n\nTASK:\n1. 마지막으로 확인된 지점에서 시작하세요. 그곳에서 갈 수 있는 길, 갈림길, 출구를 약도에 표시하세요.\n\n2. 주변을 수색 구역으로 나누고, 이 상황에서 어느 구역부터 살펴볼지 이유와 함께 적으세요.\n\n3. 나중에 들어온 신고는 따로 기록하세요. 신고를 확인하려면 어떤 정보가 필요한지, 전화가 연결되지 않는다는 사실만으로 실종 원인을 알 수 없는 이유는 무엇인지 적으세요.\n\n공개된 길에 머무르세요. 실종 사건과 개인정보는 가상입니다."
       }
     },
     "duration": 50,
@@ -125,6 +185,18 @@
       "es": {
         "title": "La puerta dañada de un comercio en la plaza de la Cebada",
         "description": "El dueño de un comercio cerca de la plaza de la Cebada avisa de que la puerta de entrada está torcida, la placa del cierre está doblada y el cajón de la caja está abierto. Dice que cerró el local a las 21:00 de la noche anterior. Una persona del servicio de limpieza entró antes del aviso. Todavía no se ha comprobado si falta algo.\n\nTAREA:\n1. Desde la vía pública, dibuja la fachada descrita en el expediente. Señala qué partes se verían desde la calle.\n\n2. Haz una cronología: ¿quién entró según el expediente, cuándo y qué pudo haber tocado?\n\n3. Anota qué datos ayudarían a distinguir los daños recientes de los antiguos. Indica qué necesitarías para comprobar si falta algo de la caja.\n\nEl comercio es ficticio. No entres en ningún local real ni en zonas de acceso restringido."
+      },
+      "fr": {
+        "title": "La porte endommagée d’un commerce près de la Plaza de la Cebada",
+        "description": "Un commerçant signale que sa porte d’entrée est de travers, que la gâche est tordue et que le tiroir-caisse est ouvert. Il dit avoir fermé à 21 h la veille. Une personne chargée du nettoyage est entrée avant le signalement. On ne sait pas encore s’il manque quelque chose.\n\nTASK:\n1. Depuis la voie publique, dessine la façade décrite dans le dossier et indique les parties qui seraient visibles de la rue.\n\n2. Établis une chronologie : qui est entré d’après le dossier, à quel moment et qu’a pu toucher cette personne ?\n\n3. Indique ce qui permettrait de distinguer les dégâts récents des anciens et de vérifier s’il manque quelque chose dans la caisse.\n\nLe commerce est fictif. N’entre dans aucun commerce réel ni dans une zone à accès restreint."
+      },
+      "it": {
+        "title": "La porta danneggiata di un negozio vicino a Plaza de la Cebada",
+        "description": "Il titolare di un negozio segnala che la porta d’ingresso è storta, la piastra di riscontro è piegata e il cassetto della cassa è aperto. Dice di aver chiuso alle 21:00 della sera precedente. Una persona addetta alle pulizie è entrata prima della segnalazione. Non è ancora chiaro se manchi qualcosa.\n\nTASK:\n1. Dalla strada pubblica, disegna la facciata descritta nel fascicolo e indica quali parti sarebbero visibili dalla strada.\n\n2. Ricostruisci la sequenza: chi è entrato secondo il fascicolo, quando e che cosa potrebbe aver toccato?\n\n3. Annota quali informazioni aiuterebbero a distinguere i danni recenti da quelli precedenti e a verificare se manca qualcosa dalla cassa.\n\nIl negozio è fittizio. Non entrare in negozi reali o in aree ad accesso limitato."
+      },
+      "ko": {
+        "title": "플라사 데 라 세바다 인근 상점의 출입문 파손",
+        "description": "상점 주인이 출입문이 비뚤어지고 잠금쇠 받이판이 휘었으며 금전 등록기의 서랍이 열려 있다고 신고합니다. 주인은 전날 밤 21시에 문을 잠갔다고 말합니다. 신고 전에 청소 담당자가 들어갔습니다. 없어진 물건이 있는지는 아직 확인되지 않았습니다.\n\nTASK:\n1. 공개된 도로에서 훈련 자료에 묘사된 상점 정면을 그리세요. 도로에서 보일 부분을 표시하세요.\n\n2. 자료를 바탕으로 누가 언제 들어갔고 무엇을 만졌을 가능성이 있는지 시간순으로 정리하세요.\n\n3. 최근 파손과 이전 파손을 구분하고 계산대에서 없어진 것이 있는지 확인하려면 어떤 정보가 필요한지 적으세요.\n\n상점은 가상입니다. 실제 상점이나 출입 제한 구역에 들어가지 마세요."
       }
     },
     "duration": 40,
@@ -147,6 +219,18 @@
       "es": {
         "title": "El incendio de un contenedor cerca de Matadero Madrid",
         "description": "En el expediente, los bomberos apagaron un incendio en un contenedor cerca de Matadero Madrid y confirmaron que la zona era segura. Un vigilante vio a alguien alejarse poco antes de advertir el humo. No vio cómo empezó el incendio. El expediente menciona hollín en un lado del contenedor y un cambio de color en el pavimento.\n\nTAREA:\n1. Desde un paso público, describe cómo es la zona y qué hay alrededor del contenedor ficticio.\n\n2. Enumera los daños descritos que tendría que revisar un especialista. Anota qué fotos generales y de detalle serían útiles.\n\n3. Separa lo que vio el vigilante de lo que aún no se sabe. Indica dos datos que podrían ayudar a esclarecer la causa.\n\nEl incendio es ficticio. No te acerques a un incendio real, al humo ni a un contenedor dañado."
+      },
+      "fr": {
+        "title": "L’incendie d’un conteneur près de Matadero Madrid",
+        "description": "Dans le dossier, les pompiers ont éteint un feu dans un conteneur à déchets et sécurisé les lieux près de Matadero Madrid. Un gardien a vu quelqu’un s’éloigner peu avant de remarquer la fumée, mais n’a pas vu le départ du feu. Le dossier mentionne de la suie sur un côté du conteneur et une décoloration du sol.\n\nTASK:\n1. Depuis un passage public, décris l’aménagement des lieux et ce qui entoure le conteneur fictif.\n\n2. Relève les dégâts signalés qu’un spécialiste devrait examiner. Indique quelles photos d’ensemble et de détail seraient utiles.\n\n3. Distingue ce que le gardien a vu de ce qui reste inconnu. Cite deux éléments qui aideraient à rechercher la cause.\n\nL’incendie est fictif. Ne t’approche pas d’un site d’incendie réel, de la fumée ou d’un conteneur endommagé."
+      },
+      "it": {
+        "title": "L’incendio di un cassonetto vicino a Matadero Madrid",
+        "description": "Nel fascicolo, i vigili del fuoco hanno spento l’incendio di un cassonetto vicino a Matadero Madrid e messo in sicurezza la zona. Un vigilante ha visto qualcuno allontanarsi poco prima di notare il fumo, ma non ha visto come è iniziato l’incendio. Il fascicolo menziona fuliggine su un lato del cassonetto e un cambiamento di colore della pavimentazione.\n\nTASK:\n1. Da un passaggio pubblico, descrivi com’è disposta l’area e che cosa si trova intorno al cassonetto fittizio.\n\n2. Elenca i danni segnalati che dovrebbe valutare uno specialista. Indica quali foto d’insieme e di dettaglio sarebbero utili.\n\n3. Distingui ciò che ha visto il vigilante da ciò che resta ignoto. Indica due elementi utili per chiarire la causa.\n\nL’incendio è fittizio. Non avvicinarti a luoghi di incendi reali, al fumo o a cassonetti danneggiati."
+      },
+      "ko": {
+        "title": "마타데로 마드리드 인근 쓰레기 수거함 화재",
+        "description": "훈련 자료에서 소방대는 마타데로 마드리드 인근의 쓰레기 수거함 화재를 진압하고 현장의 안전을 확인했습니다. 경비원은 연기를 발견하기 직전에 누군가가 떠나는 것을 봤지만, 불이 어떻게 시작됐는지는 보지 못했습니다. 자료에는 수거함 한쪽의 그을음과 바닥의 변색이 기록돼 있습니다.\n\nTASK:\n1. 공개된 통로에서 주변 구조와 가상의 수거함 주변에 무엇이 있는지 설명하세요.\n\n2. 전문가가 살펴볼 필요가 있는 피해를 정리하세요. 어떤 전경 사진과 상세 사진이 도움이 될지 적으세요.\n\n3. 경비원이 본 것과 아직 모르는 내용을 구분하세요. 원인 파악에 도움이 될 정보 두 가지를 적으세요.\n\n화재는 가상입니다. 실제 화재 현장이나 연기, 파손된 수거함에 접근하지 마세요."
       }
     },
     "duration": 45,
@@ -169,6 +253,18 @@
       "es": {
         "title": "La placa informativa dañada junto a la Puerta de Alcalá",
         "description": "Una persona del equipo de mantenimiento avisa de que una placa informativa junto a la Puerta de Alcalá tiene marcas de pintura y le falta una esquina. En el registro consta que estaba intacta en la última revisión. El expediente no indica cuándo ni cómo se produjeron los daños.\n\nTAREA:\n1. Compara el aviso con el registro de mantenimiento. Para cada daño, anota qué se ha comunicado y qué queda por aclarar.\n\n2. Prepara un plan de fotos: una vista general del entorno, una que muestre dónde se encuentra la placa y fotos de detalle de los daños descritos.\n\n3. Anota qué datos servirían para acotar cuándo se produjeron los daños y comprobar el estado anterior de la placa.\n\nLa placa y los daños son ficticios. No toques objetos reales ni hagas marcas."
+      },
+      "fr": {
+        "title": "La plaque d’information endommagée près de la Puerta de Alcalá",
+        "description": "Un agent d’entretien signale des marques de peinture et un coin manquant sur une plaque d’information près de la Puerta de Alcalá. Le registre indique qu’elle était intacte au dernier contrôle. Le dossier ne précise ni quand ni comment les dégâts sont survenus.\n\nTASK:\n1. Compare le signalement au registre d’entretien. Pour chaque dégât, note ce qui est signalé et ce qui reste incertain.\n\n2. Prépare un plan de prises de vue : une vue d’ensemble, une photo qui situe la plaque et des gros plans des dégâts signalés.\n\n3. Indique quelles informations permettraient de préciser la période des dégâts et de vérifier l’état antérieur de la plaque.\n\nLa plaque et les dégâts sont fictifs. Ne touche à aucun objet réel et ne fais aucun marquage."
+      },
+      "it": {
+        "title": "Il pannello informativo danneggiato vicino alla Puerta de Alcalá",
+        "description": "Un addetto alla manutenzione segnala segni di vernice e un angolo mancante su un pannello informativo vicino alla Puerta de Alcalá. Il registro indica che il pannello era intatto all’ultimo controllo. Il fascicolo non precisa quando o come siano avvenuti i danni.\n\nTASK:\n1. Confronta la segnalazione con il registro. Per ogni danno, indica che cosa è stato segnalato e che cosa resta incerto.\n\n2. Prepara un piano fotografico: una vista d’insieme, una foto che mostri la posizione del pannello e foto di dettaglio dei danni segnalati.\n\n3. Elenca quali informazioni servirebbero a circoscrivere il periodo dei danni e a verificare lo stato precedente del pannello.\n\nIl pannello e i danni sono fittizi. Non toccare oggetti reali e non lasciare segni."
+      },
+      "ko": {
+        "title": "푸에르타 데 알칼라 인근의 안내판 파손",
+        "description": "시설 관리 직원이 푸에르타 데 알칼라 인근 안내판에 페인트 자국이 있고 모서리 하나가 떨어져 나갔다고 신고합니다. 관리 기록에는 지난 점검 때 안내판이 온전했다고 적혀 있습니다. 파손 시점과 원인은 알려지지 않았습니다.\n\nTASK:\n1. 신고 내용과 관리 기록을 비교하세요. 파손 항목마다 신고된 내용과 아직 확실하지 않은 점을 적으세요.\n\n2. 촬영 계획을 세우세요. 주변 전경 한 장, 안내판의 위치를 보여 주는 사진 한 장, 신고된 파손 부위의 상세 사진을 계획하세요.\n\n3. 파손 시점을 좁히고 안내판의 이전 상태를 확인하려면 어떤 정보가 필요한지 적으세요.\n\n안내판과 파손은 가상입니다. 실제 물건에 손대거나 표시를 남기지 마세요."
       }
     },
     "duration": 30,
@@ -191,6 +287,18 @@
       "es": {
         "title": "El rastro de líquido junto al puente de Segovia",
         "description": "Una persona del equipo de mantenimiento avisa de que hay un rastro de líquido en un camino de servicio pavimentado de Madrid Río, cerca del puente de Segovia. Según el aviso, va desde el borde del camino hacia un desagüe. No se sabe qué sustancia es, de dónde procede ni hasta dónde llega el rastro.\n\nTAREA:\n1. Observa el entorno desde un camino público seguro. Anota hacia dónde baja el terreno y qué desagües puedes ver.\n\n2. Indica qué datos hacen falta para determinar el origen y la extensión del rastro. Anota qué información podría perderse con la lluvia o la limpieza.\n\n3. Prepara un resumen para otro agente: ubicación, dirección indicada en el aviso, dudas pendientes y puntos donde, en el ejercicio, alguien podría haber entrado en contacto con el líquido.\n\nNo se ha colocado ningún líquido para el ejercicio. No te acerques a un líquido desconocido, ni lo huelas ni tomes muestras. No saques conclusiones solo por su color."
+      },
+      "fr": {
+        "title": "La trace de liquide près du Puente de Segovia",
+        "description": "Un agent d’entretien signale une trace de liquide sur une voie de service revêtue à Madrid Río, près du Puente de Segovia. D’après le signalement, elle va du bord de la voie vers une bouche d’évacuation. On ignore la nature du liquide, son origine et l’étendue de la trace.\n\nTASK:\n1. Depuis un chemin public sûr, note le sens de la pente et les points d’évacuation visibles.\n\n2. Indique les informations nécessaires pour établir l’origine et l’étendue de la trace. Note ce que la pluie ou le nettoyage pourraient effacer.\n\n3. Prépare une courte transmission avec la localisation, la direction signalée, les inconnues et les endroits où les passants auraient pu être exposés dans le scénario.\n\nAucun liquide n’a été déposé pour l’exercice. Ne t’approche pas d’un liquide inconnu, ne le sens pas et n’en prélève pas. Ne conclus rien d’après sa seule couleur."
+      },
+      "it": {
+        "title": "La traccia di liquido vicino al Puente de Segovia",
+        "description": "Un addetto alla manutenzione segnala una traccia di liquido su un percorso di servizio pavimentato a Madrid Río, vicino al Puente de Segovia. Secondo la segnalazione, la traccia va dal bordo del percorso verso uno scarico. Non si conoscono la sostanza, la sua origine né l’estensione della traccia.\n\nTASK:\n1. Da un percorso pubblico sicuro, annota in quale direzione scende il terreno e quali scarichi sono visibili.\n\n2. Indica quali informazioni servirebbero a stabilire l’origine e l’estensione della traccia. Annota che cosa potrebbe andare perso con la pioggia o la pulizia.\n\n3. Prepara un breve resoconto con la posizione, la direzione indicata, le incertezze e i punti in cui, nello scenario, i passanti avrebbero potuto entrare in contatto con il liquido.\n\nNon è stato versato alcun liquido per l’esercitazione. Non avvicinarti a liquidi sconosciuti, non annusarli e non prelevare campioni. Non trarre conclusioni dal solo colore."
+      },
+      "ko": {
+        "title": "푸엔테 데 세고비아 인근의 액체 흔적",
+        "description": "시설 관리 직원이 마드리드 리오의 푸엔테 데 세고비아 인근 포장 관리로에 액체가 흐른 흔적이 있다고 신고합니다. 신고에 따르면 흔적은 길 가장자리에서 배수구 쪽으로 이어집니다. 어떤 물질인지, 어디서 흘러왔는지, 어디까지 이어지는지는 알 수 없습니다.\n\nTASK:\n1. 안전한 공개 보행로에서 지면이 어느 방향으로 기울어져 있는지, 어떤 배수구가 보이는지 기록하세요.\n\n2. 흔적의 출처와 범위를 확인하려면 어떤 정보가 필요한지 적으세요. 비나 청소로 사라질 수 있는 정보도 기록하세요.\n\n3. 동료에게 전달할 내용을 짧게 정리하세요. 위치, 신고에 나온 방향, 불확실한 점, 훈련 상황에서 행인이 액체에 닿았을 수 있는 지점을 포함하세요.\n\n훈련용 액체는 놓여 있지 않습니다. 실제로 정체를 모르는 액체에 접근하거나 냄새를 맡거나 시료를 채취하지 마세요. 색만으로 판단하지 마세요."
       }
     },
     "duration": 40,
@@ -213,6 +321,18 @@
       "es": {
         "title": "El hallazgo de una persona fallecida en la Casa de Campo",
         "description": "En el expediente, un paseante encuentra a una persona junto a un sendero cerca del lago de la Casa de Campo. Un médico confirma el fallecimiento. Se desconoce la causa. El paseante dice que tocó a la persona al intentar ayudarla.\n\nTAREA:\n1. Desde un camino público, dibuja un croquis del lugar indicado y su entorno. Anota qué caminos llegan hasta allí y cómo podrían influir la lluvia o el paso de personas.\n\n2. Registra lo que el paseante dice haber hecho. Explica por qué ese dato puede ser relevante al valorar los indicios descritos en el expediente.\n\n3. Indica qué hallazgos tendría que valorar un especialista. Deja sin determinar la causa y la hora del fallecimiento.\n\nLa persona y los indicios son ficticios. No muevas nada ni entres en zonas acotadas o sensibles."
+      },
+      "fr": {
+        "title": "Une personne retrouvée morte près d’un sentier de la Casa de Campo",
+        "description": "Dans le dossier, un promeneur découvre une personne à côté d’un sentier, près du lac de la Casa de Campo. Un médecin constate le décès. La cause reste inconnue. Le promeneur dit avoir touché la personne en essayant de lui porter secours.\n\nTASK:\n1. Depuis un chemin public, dessine le lieu signalé et ses environs. Note les chemins qui y mènent et l’effet possible de la pluie ou du passage de personnes.\n\n2. Note ce que le promeneur dit avoir fait. Explique pourquoi cela peut compter dans l’évaluation des traces décrites dans le dossier.\n\n3. Indique quelles constatations nécessitent l’avis d’un spécialiste. Laisse ouvertes les questions de la cause et de l’heure du décès.\n\nLa personne et les traces sont fictives. Ne déplace rien et n’entre dans aucune zone protégée ou à accès restreint."
+      },
+      "it": {
+        "title": "Una persona trovata morta accanto a un sentiero nella Casa de Campo",
+        "description": "Nel fascicolo, un passante trova una persona accanto a un sentiero vicino al lago della Casa de Campo. Un medico ne accerta il decesso. La causa è ignota. Il passante riferisce di aver toccato la persona mentre cercava di aiutarla.\n\nTASK:\n1. Da un sentiero pubblico, disegna il luogo segnalato e i suoi dintorni. Annota i sentieri che vi conducono e come la pioggia o il passaggio di persone potrebbero influire sull’area.\n\n2. Registra che cosa il passante dice di aver fatto. Spiega perché può essere rilevante nel valutare le tracce descritte nel fascicolo.\n\n3. Indica quali rilievi richiedono la valutazione di uno specialista. Lascia indeterminate la causa e l’ora del decesso.\n\nLa persona e le tracce sono fittizie. Non spostare nulla e non entrare in zone delimitate o sensibili."
+      },
+      "ko": {
+        "title": "카사 데 캄포 산책로 옆에서 발견된 사망자",
+        "description": "훈련 자료에 따르면 한 산책객이 카사 데 캄포 호수 근처 산책로 옆에서 사람을 발견합니다. 의사가 사망을 확인했으며 원인은 알려지지 않았습니다. 산책객은 도우려는 과정에서 그 사람의 몸에 손을 댔다고 말합니다.\n\nTASK:\n1. 공개된 길에서 신고된 발견 지점과 주변을 약도로 그리세요. 연결되는 길과 비 또는 통행이 주변에 미칠 수 있는 영향을 기록하세요.\n\n2. 산책객이 했다고 말한 행동을 적으세요. 그 내용이 자료에 나온 흔적을 판단할 때 왜 중요할 수 있는지 설명하세요.\n\n3. 전문가의 판단이 필요한 소견을 정리하세요. 사망 원인과 시각은 단정하지 마세요.\n\n인물과 흔적은 가상입니다. 아무것도 옮기지 말고 출입이 제한되거나 훼손되기 쉬운 구역에 들어가지 마세요."
       }
     },
     "duration": 50,
