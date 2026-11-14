@@ -1,0 +1,71 @@
+
+[
+  {
+    "id": "training-1",
+    "title": "Het fietsongeval bij Madrid Río",
+    "description": "Bij Madrid Río is een fietser gevallen nadat hij plotseling moest uitwijken. Volgens de fietser liep een voetganger onverwacht het fietspad op. Een getuige zag de val, maar niet wat er direct aan voorafging. De fietser is ongedeerd, maar zijn fiets is beschadigd.\n\nOPDRACHT:\n1. Bekijk de omgeving en teken een schets van het fietspad, de voetgangersruimte en mogelijke obstakels. Markeer waar het incident volgens de fietser plaatsvond.\n\n2. Onderzoek welke omgevingsfactoren een rol kunnen hebben gespeeld, zoals zichtbaarheid, wegdek en bewegwijzering. Maak foto's van relevante kenmerken zonder voorbijgangers herkenbaar vast te leggen.\n\n3. Vergelijk de verklaringen van de fietser en de getuige. Beschrijf welke informatie overeenkomt, wat onzeker blijft en welke andere oorzaken mogelijk zijn.\n\nMaak onderscheid tussen feiten, verklaringen en aannames. Verplaats geen voorwerpen en hinder andere weggebruikers niet.",
+    "translations": {
+      "nl": {
+        "title": "Het fietsongeval bij Madrid Río",
+        "description": "Bij Madrid Río is een fietser gevallen nadat hij plotseling moest uitwijken. Volgens de fietser liep een voetganger onverwacht het fietspad op. Een getuige zag de val, maar niet wat er direct aan voorafging. De fietser is ongedeerd, maar zijn fiets is beschadigd.\n\nOPDRACHT:\n1. Bekijk de omgeving en teken een schets van het fietspad, de voetgangersruimte en mogelijke obstakels. Markeer waar het incident volgens de fietser plaatsvond.\n\n2. Onderzoek welke omgevingsfactoren een rol kunnen hebben gespeeld, zoals zichtbaarheid, wegdek en bewegwijzering. Maak foto's van relevante kenmerken zonder voorbijgangers herkenbaar vast te leggen.\n\n3. Vergelijk de verklaringen van de fietser en de getuige. Beschrijf welke informatie overeenkomt, wat onzeker blijft en welke andere oorzaken mogelijk zijn.\n\nMaak onderscheid tussen feiten, verklaringen en aannames. Verplaats geen voorwerpen en hinder andere weggebruikers niet."
+      },
+      "en": {
+        "title": "The cycling accident at Madrid Río",
+        "description": "At Madrid Río, a cyclist fell after suddenly swerving. According to the cyclist, a pedestrian unexpectedly stepped onto the cycle path. A witness saw the fall but not what happened immediately beforehand. The cyclist is uninjured, but the bicycle is damaged.\n\nTASK:\n1. Examine the surroundings and sketch the cycle path, pedestrian areas and possible obstacles. Mark where the cyclist says the incident occurred.\n\n2. Investigate environmental factors that may have contributed, such as visibility, road surface and signs. Photograph relevant features without capturing identifiable passers-by.\n\n3. Compare the cyclist's and witness's accounts. Describe what agrees, what remains uncertain and which alternative causes are possible.\n\nSeparate facts, statements and assumptions. Do not move objects or obstruct other road users."
+      },
+      "es": {
+        "title": "El accidente de bicicleta en Madrid Río",
+        "description": "En Madrid Río, un ciclista se ha caído después de realizar una maniobra brusca para esquivar algo. Según el ciclista, un peatón entró inesperadamente en el carril bici. Un testigo vio la caída, pero no lo que ocurrió inmediatamente antes. El ciclista no está herido, pero su bicicleta presenta daños.\n\nTAREA:\n1. Observa el entorno y dibuja un croquis del carril bici, las zonas peatonales y los posibles obstáculos. Marca dónde ocurrió el incidente según el ciclista.\n\n2. Investiga qué factores del entorno pudieron influir, como la visibilidad, el estado del pavimento y la señalización. Fotografía los elementos relevantes sin identificar a los transeúntes.\n\n3. Compara las declaraciones del ciclista y del testigo. Describe qué información coincide, qué sigue siendo incierto y qué otras causas podrían explicar el accidente.\n\nDistingue entre hechos, declaraciones y suposiciones. No muevas objetos ni obstaculices a otros usuarios de la vía."
+      },
+      "fr": {
+        "title": "L'accident de vélo à Madrid Río",
+        "description": "À Madrid Río, un cycliste est tombé après avoir brusquement changé de direction. Selon lui, un piéton s'est engagé de manière inattendue sur la piste cyclable. Un témoin a vu la chute, mais pas ce qui s'est passé juste avant. Le cycliste n'est pas blessé, mais son vélo est endommagé.\n\nMISSION :\n1. Observe les lieux et dessine un croquis de la piste cyclable, des espaces piétons et des obstacles possibles. Indique où l'incident aurait eu lieu selon le cycliste.\n\n2. Examine les facteurs environnementaux qui ont pu jouer un rôle, notamment la visibilité, l'état du revêtement et la signalisation. Photographie les éléments pertinents sans identifier les passants.\n\n3. Compare les déclarations du cycliste et du témoin. Indique les points communs, les incertitudes et les autres causes possibles.\n\nDistingue les faits, les déclarations et les suppositions. Ne déplace aucun objet et ne gêne pas les autres usagers."
+      },
+      "it": {
+        "title": "L'incidente in bicicletta a Madrid Río",
+        "description": "A Madrid Río, un ciclista è caduto dopo aver sterzato improvvisamente. Secondo il ciclista, un pedone è entrato inaspettatamente nella pista ciclabile. Un testimone ha visto la caduta, ma non ciò che è successo subito prima. Il ciclista è illeso, ma la bicicletta è danneggiata.\n\nCOMPITO:\n1. Osserva l'ambiente e disegna uno schizzo della pista ciclabile, delle aree pedonali e dei possibili ostacoli. Segna dove, secondo il ciclista, è avvenuto l'incidente.\n\n2. Esamina i fattori ambientali che potrebbero aver contribuito, come visibilità, condizioni della pavimentazione e segnaletica. Fotografa gli elementi rilevanti senza rendere identificabili i passanti.\n\n3. Confronta le dichiarazioni del ciclista e del testimone. Descrivi le informazioni concordanti, le incertezze e le possibili cause alternative.\n\nDistingui fatti, dichiarazioni e supposizioni. Non spostare oggetti e non ostacolare gli altri utenti della strada."
+      },
+      "ko": {
+        "title": "마드리드 리오 자전거 사고",
+        "description": "마드리드 리오에서 한 자전거 이용자가 갑자기 방향을 바꾸다가 넘어졌습니다. 자전거 이용자에 따르면 보행자가 예상치 못하게 자전거 도로로 들어왔다고 합니다. 목격자는 넘어지는 장면을 봤지만 그 직전에 무슨 일이 있었는지는 보지 못했습니다. 자전거 이용자는 다치지 않았지만 자전거는 파손되었습니다.\n\n과제:\n1. 주변 환경을 살펴보고 자전거 도로, 보행자 구역, 장애물이 될 수 있는 요소를 약도로 그리세요. 자전거 이용자의 진술에 따라 사고 지점을 표시하세요.\n\n2. 시야, 노면 상태, 교통 표지판 등 사고에 영향을 주었을 수 있는 환경 요인을 조사하세요. 지나가는 사람의 신원이 드러나지 않도록 관련 환경을 촬영하세요.\n\n3. 자전거 이용자와 목격자의 진술을 비교하세요. 일치하는 내용, 불확실한 내용, 다른 가능한 사고 원인을 정리하세요.\n\n사실, 진술, 추정을 구분하세요. 물건을 옮기거나 다른 도로 이용자의 통행을 방해하지 마세요."
+      }
+    },
+    "duration": 35,
+    "latitude": 40.3993,
+    "longitude": -3.7228
+  },
+  {
+    "id": "training-2",
+    "title": "Vandalisme op Plaza de España",
+    "description": "Op Plaza de España ontdekt een medewerker van de gemeente dat een openbare informatiezuil is beschadigd. Het scherm vertoont krassen en er ligt afval naast de zuil. Een medewerker verklaart dat de zuil de vorige avond nog intact was. Het is onduidelijk of de schade opzettelijk is veroorzaakt.\n\nOPDRACHT:\n1. Observeer de informatiezuil en de directe omgeving. Maak een schets waarop je de locatie, zichtbare schade en relevante objecten aangeeft.\n\n2. Leg de zichtbare schade vast met overzichtsfoto's en detailfoto's. Beschrijf objectief wat je ziet, zonder conclusies te trekken over de oorzaak.\n\n3. Stel een lijst op van mogelijke verklaringen voor de schade. Beschrijf welke informatie nodig zou zijn om een ongeluk, slijtage of opzettelijke beschadiging van elkaar te onderscheiden.\n\nRaak beschadigde onderdelen niet aan en verzamel geen voorwerpen. Het gaat om een observatieoefening op een openbare locatie.",
+    "translations": {
+      "nl": {
+        "title": "Vandalisme op Plaza de España",
+        "description": "Op Plaza de España ontdekt een medewerker van de gemeente dat een openbare informatiezuil is beschadigd. Het scherm vertoont krassen en er ligt afval naast de zuil. Een medewerker verklaart dat de zuil de vorige avond nog intact was. Het is onduidelijk of de schade opzettelijk is veroorzaakt.\n\nOPDRACHT:\n1. Observeer de informatiezuil en de directe omgeving. Maak een schets waarop je de locatie, zichtbare schade en relevante objecten aangeeft.\n\n2. Leg de zichtbare schade vast met overzichtsfoto's en detailfoto's. Beschrijf objectief wat je ziet, zonder conclusies te trekken over de oorzaak.\n\n3. Stel een lijst op van mogelijke verklaringen voor de schade. Beschrijf welke informatie nodig zou zijn om een ongeluk, slijtage of opzettelijke beschadiging van elkaar te onderscheiden.\n\nRaak beschadigde onderdelen niet aan en verzamel geen voorwerpen. Het gaat om een observatieoefening op een openbare locatie."
+      },
+      "en": {
+        "title": "Vandalism at Plaza de España",
+        "description": "At Plaza de España, a municipal employee discovers that a public information kiosk has been damaged. Its screen has scratches, and litter is lying beside it. An employee states that the kiosk was intact the previous evening. It is unclear whether the damage was intentional.\n\nTASK:\n1. Observe the information kiosk and its immediate surroundings. Draw a sketch marking its location, visible damage and relevant objects.\n\n2. Document the visible damage using wide-angle and close-up photographs. Describe objectively what you see without drawing conclusions about the cause.\n\n3. List possible explanations for the damage. Describe what information would be needed to distinguish an accident, wear and tear or deliberate damage.\n\nDo not touch damaged parts or collect objects. This is an observation exercise in a public location."
+      },
+      "es": {
+        "title": "Vandalismo en la Plaza de España",
+        "description": "En la Plaza de España, un empleado municipal descubre que un punto de información público ha sufrido daños. La pantalla presenta arañazos y hay basura junto a la estructura. Un empleado afirma que la instalación estaba intacta la noche anterior. No está claro si los daños fueron intencionados.\n\nTAREA:\n1. Observa el punto de información y su entorno inmediato. Realiza un croquis indicando su ubicación, los daños visibles y los objetos relevantes.\n\n2. Documenta los daños visibles mediante fotografías generales y de detalle. Describe objetivamente lo que observas sin sacar conclusiones sobre la causa.\n\n3. Elabora una lista de posibles explicaciones de los daños. Indica qué información sería necesaria para distinguir entre un accidente, el desgaste o un daño intencionado.\n\nNo toques las partes dañadas ni recojas objetos. Se trata de un ejercicio de observación en un espacio público."
+      },
+      "fr": {
+        "title": "Vandalisme sur la Plaza de España",
+        "description": "Sur la Plaza de España, un employé municipal découvre qu'une borne d'information publique a été endommagée. L'écran présente des rayures et des déchets se trouvent à côté. Un employé affirme que la borne était intacte la veille au soir. On ignore si les dégâts ont été causés volontairement.\n\nMISSION :\n1. Observe la borne d'information et ses alentours immédiats. Dessine un croquis indiquant son emplacement, les dommages visibles et les objets pertinents.\n\n2. Documente les dommages visibles à l'aide de photographies générales et de gros plans. Décris objectivement ce que tu observes sans conclure sur la cause.\n\n3. Dresse une liste des explications possibles des dommages. Indique les informations nécessaires pour distinguer un accident, l'usure ou une dégradation volontaire.\n\nNe touche pas les parties endommagées et ne ramasse aucun objet. Il s'agit d'un exercice d'observation dans un espace public."
+      },
+      "it": {
+        "title": "Vandalismo a Plaza de España",
+        "description": "A Plaza de España, un dipendente comunale scopre che un chiosco informativo pubblico è stato danneggiato. Lo schermo presenta graffi e accanto alla struttura ci sono dei rifiuti. Un dipendente afferma che la sera precedente il chiosco era ancora integro. Non è chiaro se il danno sia stato intenzionale.\n\nCOMPITO:\n1. Osserva il chiosco informativo e l'ambiente circostante. Disegna uno schizzo indicando la posizione, i danni visibili e gli oggetti rilevanti.\n\n2. Documenta i danni visibili con fotografie panoramiche e dettagliate. Descrivi oggettivamente ciò che vedi senza trarre conclusioni sulla causa.\n\n3. Prepara un elenco delle possibili spiegazioni del danno. Indica quali informazioni sarebbero necessarie per distinguere un incidente, l'usura o un danneggiamento intenzionale.\n\nNon toccare le parti danneggiate e non raccogliere oggetti. Si tratta di un esercizio di osservazione in uno spazio pubblico."
+      },
+      "ko": {
+        "title": "에스파냐 광장의 공공시설 훼손",
+        "description": "에스파냐 광장에서 시청 직원이 공공 안내 키오스크가 손상된 것을 발견했습니다. 화면에는 긁힌 자국이 있고 시설 옆에는 쓰레기가 놓여 있습니다. 한 직원은 전날 저녁까지 시설에 문제가 없었다고 진술했습니다. 손상이 고의로 발생했는지는 확인되지 않았습니다.\n\n과제:\n1. 안내 키오스크와 주변 환경을 관찰하세요. 위치, 눈에 보이는 손상, 관련 물체를 표시한 약도를 작성하세요.\n\n2. 전체 사진과 근접 사진으로 눈에 보이는 손상을 기록하세요. 원인을 단정하지 말고 관찰한 내용을 객관적으로 설명하세요.\n\n3. 손상의 가능한 원인을 목록으로 작성하세요. 사고, 자연적인 마모, 고의적인 훼손을 구별하려면 어떤 정보가 필요한지 설명하세요.\n\n손상된 부분을 만지거나 물건을 수거하지 마세요. 이 활동은 공공장소에서 진행하는 관찰 훈련입니다."
+      }
+    },
+    "duration": 30,
+    "latitude": 40.4238,
+    "longitude": -3.7122
+  }
+]
